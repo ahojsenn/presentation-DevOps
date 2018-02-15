@@ -43,6 +43,6 @@ Johannes Mainusch
 <!-- .slide: data-background="#9B3036" -->
 
 [![kommitment][1]][2]
-[1]: assets/img/kommitment.png
+[1]: ttps://raw.githubusercontent.com/ahojsenn/assets/master/img/kommitment.png
 [2]: http://www.kommitment.biz
 <!-- .element: style="border: 0px !important;" -->
