@@ -1,13 +1,12 @@
 
 <!-- .slide: data-background="#ffffff"-->
 # DEVOPS
-<!-- .element: style="font-size: 5em; color: #aa2332"-->
-
+<!-- .element: style="font-size: 9em; color: #aa2332"-->
+Wer hat hier eigentlich den Hut auf?
 
 <!-- .element: style="font-variant: smallcaps; color: #aa2332"-->
-+++?image=assets/img/abstract.png
-Note:
-![](assets/img/abstract.png)
++++
+![Video](https://www.youtube.com/watch?v=rhU9_TbABvw)
 
 ---?include=/p-verticals/PITCHME.md
 
