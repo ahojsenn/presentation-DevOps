@@ -1,0 +1,29 @@
+#!/bin/bash
+#
+
+echo $1
+
+if [[ $@ == **-l** ]]
+then
+    echo "You found localopt"
+    echo "deploying locally"
+    # change assets to img
+    mv PITCHME/assets/md/assets PITCHME/assets/md/assets.old
+    mv PITCHME/assets/md/PITCHME.md PITCHME/assets/md/PITCHME.md.old
+    mv PITCHME/assets/img PITCHME/assets/img.old
+    ln -s $PWD/assets/css $PWD/PITCHME/assets/.
+    ln -s $PWD/assets/img $PWD/PITCHME/assets/.
+    ln -s $PWD/PITCHME.md $PWD/PITCHME/assets/md/PITCHME.md 
+    killall python
+    cd PITCHME
+    python -m SimpleHTTPServer & open http://localhost:8000 && fg
+    exit 0
+fi
+
+echo "deploying to github"
+git add .
+git commit -m "fixes..."
+git pull --rebase
+git push
+open https://gitpitch.com/ahojsenn/presentation-DevOps/master?grs=github
+
