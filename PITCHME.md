@@ -1,6 +1,6 @@
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
 # DEV<br>OPS
-<!-- .slide: style="font-size: 5em; color: orange"-->
+<!-- .element: style="font-size: 5em; color: orange"-->
 Wer hat hier eigentlich den Hut auf?
 Note:
 ![image](https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png)
