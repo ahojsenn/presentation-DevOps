@@ -2,7 +2,7 @@
 Johannes & Ole bashen sich auf der Bühne zum Thema DevOps. Hier die Folien zum Vortrag...
 
 # to view the presentation
-open [https://gitpitch.com/kommitment/verticals/master?grs=bitbucket](https://gitpitch.com/kommitment/verticals/master?grs=bitbucket)
+open [https://gitpitch.com/ahojsenn/presentation-DevOps/master?grs=github](https://gitpitch.com/ahojsenn/presentation-DevOps/master?grs=github)
 
 # Web & Video
 - [https://www.meetup.com/en-AU/devops-stuttgart/events/241911259/?_cookie-check=R5MZkSfYwPfkL10e](https://www.meetup.com/en-AU/devops-stuttgart/events/241911259/?_cookie-check=R5MZkSfYwPfkL10e)
