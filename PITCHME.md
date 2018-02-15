@@ -1,5 +1,5 @@
 
-<!-- .slide: data-background="#ffffff"-->
+---?image=https://github.com/ahojsenn/assets/blob/master/img/_mandelbrot01.png
 # DEVOPS
 <!-- .element: style="font-size: 9em; color: #aa2332"-->
 Wer hat hier eigentlich den Hut auf?
