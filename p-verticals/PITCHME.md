@@ -29,7 +29,7 @@ Frage: Hilft es auch das Chaos in den Griff zu bekommen?
 # HOW
 <!-- .element: style="font-size: 5em; "-->
 
-+++?image=assets/img/vertikaleKomponenten.png
++++?image=ttps://raw.githubusercontent.com/ahojsenn/assets/master/img/vertikaleKomponenten.png
 <!-- .slide: data-background="#EBD5D6" style="text-align: left; font-size: 0.6em;" -->
 	vertical components
 <!-- .element: class="fragment fade-out" style="font-size: 2em; color: #ff7700;" -->
@@ -37,7 +37,7 @@ Note:
 Vertikale Komponenten, d.h. die teilen sich nix. Schnittstellen über REST. Lose Kopplung im Frontend über Integration im Frontend (oder in  einem Page-Asseembly-Proxy).
 
 
-+++?image=assets/img/vertikaleTeams.png
++++?image=ttps://raw.githubusercontent.com/ahojsenn/assets/master/img/vertikaleTeams.png
 <!-- .slide: data-background="#EBD5D6" style="text-align: left; font-size: 0.6em;" -->
 	# vertical teams
 	- Teamaufgaben sind für Laien verständlich
@@ -47,7 +47,7 @@ Vertikale Komponenten, d.h. die teilen sich nix. Schnittstellen über REST. Lose
 	- Iterativ und agil --> KVP
 <!-- .element: class="fragment fade-out" style="font-size: 1em; color: #ff7700;" -->
 
-+++?image=assets/img/_4D-Organisation.jpg
++++?image=ttps://raw.githubusercontent.com/ahojsenn/assets/master/img/_4D-Organisation.jpg
 <!-- .slide: data-background="#EBD5D6" style="text-align: left; font-size: 0.6em;" -->
 	4D-Organization
 	- Spezialisierung im Management: bspw. 4-Dimensionen
