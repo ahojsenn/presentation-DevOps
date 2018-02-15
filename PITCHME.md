@@ -1,15 +1,18 @@
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
 # DEV<br>OPS
-<!-- .element: style="font-size: 5em; color: #aa2332"-->
+<!-- .slide: style="font-size: 5em; color: orange"-->
 Wer hat hier eigentlich den Hut auf?
 Note:
 ![image](https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png)
-
-<!-- .element: style="font-variant: smallcaps; color: #aa2332"-->
++++?image=https://i.ytimg.com/vi/rhU9_TbABvw/maxresdefault.jpg
+Ole Langbehn
+Johannes Mainusch
 +++
 ![Video](https://www.youtube.com/watch?v=rhU9_TbABvw)
 
----?include=/p-verticals/PITCHME.md
+---
+# Verticals
++++?include=/p-verticals/PITCHME.md
 
 
 
