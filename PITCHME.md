@@ -1,8 +1,9 @@
-
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
 # DEV<br>OPS
-<!-- .element: style="font-size: 7em; color: #aa2332"-->
+<!-- .element: style="font-size: 5em; color: #aa2332"-->
 Wer hat hier eigentlich den Hut auf?
+Note:
+![image](https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png)
 
 <!-- .element: style="font-variant: smallcaps; color: #aa2332"-->
 +++
