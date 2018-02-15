@@ -1,7 +1,7 @@
 
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
-# DEVOPS
-<!-- .element: style="font-size: 7em; color: #aa2332"-->
+# DEV<br>OPS
+<!-- .element: style="font-size: 9em; color: #aa2332"-->
 Wer hat hier eigentlich den Hut auf?
 
 <!-- .element: style="font-variant: smallcaps; color: #aa2332"-->
