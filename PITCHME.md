@@ -20,15 +20,62 @@ Johannes Mainusch
 --> Time to market
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_swArchitecture.jpg
-    beware of glack boxes
+    beware of black boxes
     <!-- .element: class="fragment fade-out" style="font-size: 1em; color: #ff7700;" -->
-    beware of moniliths
+    beware of monoliths
     <!-- .element: class="fragment fade-out" style="font-size: 1em; color: #ff7700;" -->
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/SW-Lebenszyklus01.png
 
++++
+# Was passiert bei Vertikalisierung?
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/FirmaReorga01.jpg
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/FirmaReorga02.jpg
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/TeamSplitVertical.png
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/DJ-MikroMakroArch.jpg
+
 ---
 # Oles Content
+ 
++++
+# DEVS VS. OPS - KLASSISCHES SETUP
+- Devs und Ops in zwei Org-Einheiten.
+- 2 Projekte/Planungsstände, dadurch Wartezeit bei Abhängigkeiten Kostenstellen, Budgetstreits
+- Kommunikationskette Linie (hoch-quer-runter) mit entsprechenden Kommunikationsstörungen
+
++++
+# KLASSISCHE STEREOTYPEN
+
++++
+# DER DEV HASST DIE OPSLER
+- Jede Änderung dauert (gefühlt) ewig (Kommunikation, Erstellung der Anforderungsdokumente, Prozesse, getrennte Priorisierung der Backlogs, fehlende Transparenz über Workloads/Workitems)
+- Opsler bauen an meinen -Anforderungen vorbei und bauen eigene Anforderungen ein (Beispiel Kubernetes-Cluster)
+- Ich bekomme den Jahresbonus nur, wenn wir bis Weihnachten noch 4 live-deployments schaffen.
+
++++
+# DER OPSLER HASST DIE DEVS
+- Die kommen immer mit Spezialanforderungen, sehen nicht das große Ganze. Die Anforderungen der Dev-Teams widersprechen sich teilweise. Wenn ich dann eine generische Lösung baue, die allen weiterhelfen sollte, sind sie unglücklich. Bitte, Danke. 
+- Wieso bauen die eigentlich immer so komplizierte Sachen? Wenn die mal verstehen würden, was ZFS für tolle Deduplikation und Snapshotting hat, dann könnte man so viele Ressourcen sparen. Ich muss die Kontrolle über die Storage holen, und das als Service anbieten, sonst haben wir echte Probleme.
+- die machen 15.000 LOC Java code, wo es 50 Zeilen bash auch tun
+- Entwickler machen immer alles kaputt und wollen dann mehr Server
+- root Rechte auf der shell anfordern und nicht wissen, was ein crontab ist...
+- mir wächst immer ein Pelz auf dem Rücken, wenn wieder einer kommt und mir stolz erzählt, dass er nun keine Firewall-Freischaltung mehr braucht, weil er ssh-port- forwarding irgendwo eingebaut hat.
+- neulich habe ich erst wieder zwei Passworte in einer Property-Datei gefunden...
+- ich bekomme meinen Jahresbonus nur, wenn wir 99,995% Verfügbarkeit erreichen.
+
++++
+# ZUSAMMEN ARBEITEN
+- Nach der Klassik die Moderne, z.B. nach Scrum: Opsler und Devs bilden interdisziplinäre Teams, planen und arbeiten gemeinsam. Ein Backlog. Probleme:
+- Bus Factor (1 Opsler ist nicht genug)
+- Aufgrund alter Strukturen unterschiedliche Chefs, Kostenstellen, - Ziele.
+- Dem Spezialisten (Opsler) fehlt Austausch zu seinen Aufgaben
+
++++
+# hier weiter machen...
 
 
 
