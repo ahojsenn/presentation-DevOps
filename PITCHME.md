@@ -21,9 +21,8 @@ Johannes Mainusch
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_swArchitecture.jpg
     beware of black boxes
-    <!-- .element: class="fragment fade-out" style="font-size: 1em; color: #ff7700;" -->
     beware of monoliths
-    <!-- .element: class="fragment fade-out" style="font-size: 1em; color: #ff7700;" -->
+<!-- .element: class="fragment fade-out" style="font-size: 1em; color: #ff7700;" -->
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/SW-Lebenszyklus01.png
 
