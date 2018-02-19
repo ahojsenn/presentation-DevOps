@@ -16,8 +16,16 @@ Johannes Mainusch
 
 
 ---
-# Johannes Content
+# Warum Vertikale
+--> Time to market
 
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_swArchitecture.jpg
+    beware of glack boxes
+    <!-- .element: class="fragment fade-out" style="font-size: 1em; color: #ff7700;" -->
+    beware of moniliths
+    <!-- .element: class="fragment fade-out" style="font-size: 1em; color: #ff7700;" -->
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/SW-Lebenszyklus01.png
 
 ---
 # Oles Content
