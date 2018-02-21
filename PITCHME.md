@@ -1,6 +1,7 @@
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
-# DEV<br>OPS
-<!-- .element: style="font-size: 5em; color: orange"-->
+# Vertikale Organisation 
+- da muss sich was um 90° drehen im Kopf!
+<!-- .element: style="font-size: 3em; color: orange"-->
 Wer hat hier eigentlich den Hut auf?
 Note:
 ![image](https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png)
@@ -80,6 +81,9 @@ Johannes Mainusch
 
 ---
 # Fazit
+
+- Vertikslisierung ist cool, wenns groß wird
+- frühzeitig vertiakl denken
 
 +++
 <!-- .slide: data-background="#9B3036" style="text-align: left; font-size: 0.6em;"-->
