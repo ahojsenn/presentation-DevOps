@@ -2,6 +2,7 @@
 # Vertikale Organisation
 <!-- .element: style="font-size: 3em; color: orange"-->
 da muss sich was um 90° drehen im Kopf!
+<!-- .element: style="font-size: 2em; color: orange"-->
 
 +++?image=images/profilbild.jpg&size=auto 90%
 +++?image=images/johannes-mainusch.jpg&size=auto 90%
