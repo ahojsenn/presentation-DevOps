@@ -1,23 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
 # Vertikale Organisation
 - da muss sich was um 90° drehen im Kopf!
@@ -62,7 +42,7 @@ Reaktiv ist eine gute Antwort: Der Schnitt ergibt sich in einer konkreten Situat
 Aber aufpassen: Vertikal bleiben, keine horizontalen Schnitte.
 Einfache Regel für E-Commerce: jedes Team sollte direkten Kontakt zum Kunden/Benutzer haben.
 
-+++?image=images/customerjourney_.jpg
++++?image=images/customerjourney_.jpg&size=auto 90%
 Note:
 Gelöst: Die meisten Use-Cases/Feature Requests berühren nur ein Team. Abteilungen haben ein Dev-Team als Ansprechpartner.
 
@@ -71,7 +51,7 @@ Note:
 Andere Kultur: Jedes Team managt Produkt, Technik, Organisation selbst.
 Konzept Triade bei Otto.
 
-+++?image=images/speedboats_.jpg
++++?image=images/speedboats_.jpg&size=auto 90%
 Note:
 Geschwindigkeit durch Parallelisierung, trotzdem kleine, flexible Teams.
 
@@ -79,7 +59,7 @@ Geschwindigkeit durch Parallelisierung, trotzdem kleine, flexible Teams.
 ---
 # Vertikalisierung, how?
 
-+++?image=images/sharednothing_.jpg
++++?image=images/sharednothing_.jpg&size=auto 90%
 Note:
 Jedes Team hat eigene Infrastruktur, trifft eigene Technologieentscheidungen (Sprache, Datenbank). Analog zum DDD hat jedes Team seine Domain mit seinen Fachobjekten (Bei Kaufen hat ein Kunde Adressen, bei Entdecken stattdessen einen Clickstream)
 Es gibt dennoch übergreifende Aspekte, die zu sharing führen. (Die Wolke im Background ist shared, fällt gar nicht auf, oder?)
@@ -87,7 +67,7 @@ Es gibt dennoch übergreifende Aspekte, die zu sharing führen. (Die Wolke im Ba
 Note:
 Es folgen ein paar Makroarchitektur-Klassiker
 
-+++?image=images/integration_.jpg
++++?image=images/integration_.jpg&size=auto 90%
 Note:
 Frontend-Integration, Backend-Integration (Datenaustausch)
 
@@ -109,7 +89,7 @@ Die einzelnen Frontends können auf High-Level-Komponenten zurückgreifen, die i
 
 Bei Breuninger technische Bindung (handlebars templating), was besseres ist uns nicht eingefallen.
 
-+++?image=images/integration_.jpg
++++?image=images/integration_.jpg&size=auto 90%
 Note:
 Datenaustausch:
 Service Discovery z.B. über JSON Home (Endpunkte können zur Laufzeit geändert werden)
@@ -131,7 +111,7 @@ Anforderung von außen könnte sein: Zentrales System für Einsicht von Monitori
 Pitfall Beispiel Logging: Wenn ein Team ein zentrales System für alle betreibt, dann sind alle anderen sorgenfrei: Datenvolumen, Logging Spikes etc.
 Empfehlung: Den zentralen Loggingserver restriktiv auf den Use Case Support auslegen.
 
-+++?image=images/tracking.png
++++?image=images/tracking.png&size=auto 90%
 Note:
 Tracking-Integration ist in einem Webshop Makroarchitektur. Anforderungen müssen teamübergreifend erarbeitet werden, dann in jedes Team gereicht und umgesetzt werden.
 
@@ -143,7 +123,7 @@ Beispiel git-Repo: Wenn der von einem Team betrieben wird, ist das nicht deren F
 Empfehlung: Infrastructure as Code-Rezepte erstellen und teilen, die leicht angepasst werden können. Open Source Community Lifestyle: Merge Request, Fork
 separate Teams haben keinen direkten Kontakt zum Kunden, da müsste man Kunde anders definieren.
 
-+++?image=images/gilden_.jpg
++++?image=images/gilden_.jpg&size=auto 90%
 Note:
 Wie schafft man Synergien über Teams hinweg?
 Organisations-Maßnahme: Gilden bilden, ähnlich zu Matrix-Organisation, nur ohne Lead ausserhalb der Teams. Betriebsverantwortung!
@@ -159,8 +139,36 @@ Organisations-Maßnahme: Gilden bilden, ähnlich zu Matrix-Organisation, nur ohn
 
 
 Note:
-Organisationststruktur ist nur eine Hilfe, genau wie Agilität, Passt nicht in Struktur / ist nicht in meiner Verantwortung ist keine gute Antwort
-Speaker notes: s drücken (Denken hilft)
+Organisationststruktur ist nur eine Hilfe, genau wie Agilität, Passt nicht in Struktur / ist nicht in meiner Verantwortung ist keine gute Antwort (Denken hilft)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
