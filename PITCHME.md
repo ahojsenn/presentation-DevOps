@@ -70,6 +70,9 @@ Gelöst: Die meisten Use-Cases/Feature Requests berühren nur ein Team. Abteilun
 Note:
 Andere Kultur: Jedes Team managt Produkt, Technik, Organisation selbst.
 Konzept Triade bei Otto.
+
++++?image=images/speedboats_.jpg
+Note:
 Geschwindigkeit durch Parallelisierung, trotzdem kleine, flexible Teams.
 
 
@@ -84,7 +87,7 @@ Es gibt dennoch übergreifende Aspekte, die zu sharing führen. (Die Wolke im Ba
 Note:
 Es folgen ein paar Makroarchitektur-Klassiker
 
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/VertikaleIntegration.png
++++?image=images/integration_.jpg
 Note:
 Frontend-Integration, Backend-Integration (Datenaustausch)
 
@@ -106,7 +109,7 @@ Die einzelnen Frontends können auf High-Level-Komponenten zurückgreifen, die i
 
 Bei Breuninger technische Bindung (handlebars templating), was besseres ist uns nicht eingefallen.
 
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/VertikaleIntegration.png
++++?image=images/integration_.jpg
 Note:
 Datenaustausch:
 Service Discovery z.B. über JSON Home (Endpunkte können zur Laufzeit geändert werden)
@@ -145,7 +148,7 @@ Note:
 Wie schafft man Synergien über Teams hinweg?
 Organisations-Maßnahme: Gilden bilden, ähnlich zu Matrix-Organisation, nur ohne Lead ausserhalb der Teams. Betriebsverantwortung!
 
----?image=images/fazit.jpg
+---?image=images/fazit_.jpg
 # Fazit
 * Tool zum Managen von Größe/Komplexität
   * Haste keine Komplexität, lass es! (Keep it simple)
