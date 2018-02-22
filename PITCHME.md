@@ -38,8 +38,7 @@ Note:
 Eigentlich mehrere Teams in einem (Scrum Smell: PO muss alle Spezialisten auslasten)
 Gegenbewegungen: DevOps, Cross Functional Teams
 
-+++
-# TODO: Cloud of people
++++?image=images/entwicklerwolke_.jpg
 Note:
 Selbst wenn man z.B. ein cross functional team hat, skaliert das bei großen Aufgaben nicht gut.
 Kommunikation, Anzahl theoretische Beziehungen, nicht schlagkräftig.
@@ -63,9 +62,7 @@ Reaktiv ist eine gute Antwort: Der Schnitt ergibt sich in einer konkreten Situat
 Aber aufpassen: Vertikal bleiben, keine horizontalen Schnitte.
 Einfache Regel für E-Commerce: jedes Team sollte direkten Kontakt zum Kunden/Benutzer haben.
 
-+++
-# TODO: Customer Journey
-suchen oder entdecken, bewerten, kaufen, prüfen
++++?image=images/customerjourney_.jpg
 Note:
 Gelöst: Die meisten Use-Cases/Feature Requests berühren nur ein Team. Abteilungen haben ein Dev-Team als Ansprechpartner.
 
@@ -75,14 +72,14 @@ Andere Kultur: Jedes Team managt Produkt, Technik, Organisation selbst.
 Konzept Triade bei Otto.
 Geschwindigkeit durch Parallelisierung, trotzdem kleine, flexible Teams.
 
+
 ---
 # Vertikalisierung, how?
 
-+++
-# TODO: Shared nothing
++++?image=images/sharednothing_.jpg
 Note:
 Jedes Team hat eigene Infrastruktur, trifft eigene Technologieentscheidungen (Sprache, Datenbank). Analog zum DDD hat jedes Team seine Domain mit seinen Fachobjekten (Bei Kaufen hat ein Kunde Adressen, bei Entdecken stattdessen einen Clickstream)
-Es gibt dennoch übergreifende Aspekte, die zu sharing führen.
+Es gibt dennoch übergreifende Aspekte, die zu sharing führen. (Die Wolke im Background ist shared, fällt gar nicht auf, oder?)
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/DJ-MikroMakroArch.jpg
 Note:
 Es folgen ein paar Makroarchitektur-Klassiker
@@ -143,19 +140,19 @@ Beispiel git-Repo: Wenn der von einem Team betrieben wird, ist das nicht deren F
 Empfehlung: Infrastructure as Code-Rezepte erstellen und teilen, die leicht angepasst werden können. Open Source Community Lifestyle: Merge Request, Fork
 separate Teams haben keinen direkten Kontakt zum Kunden, da müsste man Kunde anders definieren.
 
-+++
-# TODO: reinventing the wheel
++++?image=images/gilden_.jpg
+Note:
 Wie schafft man Synergien über Teams hinweg?
 Organisations-Maßnahme: Gilden bilden, ähnlich zu Matrix-Organisation, nur ohne Lead ausserhalb der Teams. Betriebsverantwortung!
 
 ---?image=images/fazit.jpg
 # Fazit
 * Tool zum Managen von Größe/Komplexität
-** Haste keine Komplexität, lass es! (Keep it simple)
+  * Haste keine Komplexität, lass es! (Keep it simple)
 * Nur ein Tool, wie z.B. Agile
-** Wenn das Tool mal nicht passt, hilft Denken & Tweaken!
+  * Wenn das Tool mal nicht passt, hilft Denken & Tweaken!
 * Hat sich in mehreren Projekten bewährt
-** Lernen aus den Erfahrungen, die es schon gibt!
+  * Lernen aus den Erfahrungen, die es schon gibt!
 
 
 Note:
