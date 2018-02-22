@@ -1,3 +1,23 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
 # Vertikale Organisation 
 - da muss sich was um 90° drehen im Kopf!
@@ -8,8 +28,14 @@ Note:
 +++?image=https://i.ytimg.com/vi/rhU9_TbABvw/maxresdefault.jpg
 Ole Langbehn
 Johannes Mainusch
+---?image=images/profilbild.jpg
 +++
-![Video](https://www.youtube.com/watch?v=rhU9_TbABvw)
+
+
+
+
+
+
 
 ---
 # Verticals
@@ -40,7 +66,7 @@ Johannes Mainusch
 
 ---
 # Oles Content
- 
+
 +++
 # DEVS VS. OPS - KLASSISCHES SETUP
 - Devs und Ops in zwei Org-Einheiten.
@@ -58,7 +84,7 @@ Johannes Mainusch
 
 +++
 # DER OPSLER HASST DIE DEVS
-- Die kommen immer mit Spezialanforderungen, sehen nicht das große Ganze. Die Anforderungen der Dev-Teams widersprechen sich teilweise. Wenn ich dann eine generische Lösung baue, die allen weiterhelfen sollte, sind sie unglücklich. Bitte, Danke. 
+- Die kommen immer mit Spezialanforderungen, sehen nicht das große Ganze. Die Anforderungen der Dev-Teams widersprechen sich teilweise. Wenn ich dann eine generische Lösung baue, die allen weiterhelfen sollte, sind sie unglücklich. Bitte, Danke.
 - Wieso bauen die eigentlich immer so komplizierte Sachen? Wenn die mal verstehen würden, was ZFS für tolle Deduplikation und Snapshotting hat, dann könnte man so viele Ressourcen sparen. Ich muss die Kontrolle über die Storage holen, und das als Service anbieten, sonst haben wir echte Probleme.
 - die machen 15.000 LOC Java code, wo es 50 Zeilen bash auch tun
 - Entwickler machen immer alles kaputt und wollen dann mehr Server
