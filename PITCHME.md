@@ -1,6 +1,6 @@
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
 # Vertikale Organisation
-<!-- .element: style="font-size: 2em; color: orange"-->
+<!-- .element: style="font-size: 3em; color: orange"-->
 da muss sich was um 90° drehen im Kopf!
 
 +++?image=images/profilbild.jpg&size=auto 90%
