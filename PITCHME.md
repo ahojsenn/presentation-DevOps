@@ -1,11 +1,8 @@
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
 # Vertikale Organisation
-- da muss sich was um 90° drehen im Kopf!
-<!-- .element: style="font-size: 3em; color: orange"-->
-Wer hat hier eigentlich den Hut auf?
-+++?image=https://i.ytimg.com/vi/rhU9_TbABvw/maxresdefault.jpg
-Ole Langbehn
-Johannes Mainusch
+<!-- .element: style="font-size: 2em; color: orange"-->
+da muss sich was um 90° drehen im Kopf!
+
 +++?image=images/profilbild.jpg&size=auto 90%
 +++?image=images/johannes-mainusch.jpg&size=auto 90%
 
@@ -95,15 +92,20 @@ Note:
 Datenaustausch:
 Service Discovery z.B. über JSON Home (Endpunkte können zur Laufzeit geändert werden)
 Datenaustausch bei Breuninger asynchron über REST, Multipart.
+Was wären Alternativen?
+Bei Realtime-Anforderung: Kein Messagebus, sondern WebSockets.
+
++++?image=images/rfc.png
+Generell: RFCs/Standards statt Technologien. Beispiel GKH media types
+Beispiel: Cassandra als zentrale DB.
+
++++?image=images/resilienz.jpg
+Note:
 Wichtig: Resilienz, Stabilität. Schon unterstützt durch asynchrone Kommunikation. Bei Implementierung von Schnittstellen immer auch an den Schlechtfall denken. Alte Daten sind besser als keine Daten. Entschuldigungen sind besser als Exceptions.
 Datendesign: Beispiel Preise: mehrere mit Startdatum.
 Rückwärtskompatibilität.
 Schemata: Muss nicht, kann aber helfen.
 CDC-Tests als Alternative.
-Was wären Alternativen?
-Bei Realtime-Anforderung: Kein Messagebus, sondern WebSockets.
-Generell: RFCs/Standards statt Technologien. Beispiel GKH media types
-Beispiel: Cassandra als zentrale DB.
 
 +++?image=images/seismograph.jpg
 Note:
