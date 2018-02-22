@@ -16,11 +16,11 @@ Querstreifen machen dick. Und wenn man viel zu dick ist, wird man langsam und tr
 Note:
 Übertrag auf Dev-Teams: Spezialisten-Teams (Frontend, Backend, Operations, Data Science, ...) sind schlecht.
 Eigentlich mehrere Teams in einem (Scrum Smell: PO muss alle Spezialisten auslasten)
-Gegenbewegungen: DevOps, Cross Functional Teams
+Gegenbewegungen: DevOps, Full Stack Developer
 
 +++?image=images/entwicklerwolke_.jpg
 Note:
-Selbst wenn man z.B. ein cross functional team hat, skaliert das bei großen Aufgaben nicht gut.
+Selbst wenn man z.B. ein Team aus Full Stack Devs hat, skaliert das bei großen Aufgaben nicht gut.
 Kommunikation, Anzahl theoretische Beziehungen, nicht schlagkräftig.
 Was macht man dann? Mehrere Teams. Und welchen Schnitt wählt man dann?
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/FirmaReorga01.jpg
@@ -130,81 +130,18 @@ Organisations-Maßnahme: Gilden bilden, ähnlich zu Matrix-Organisation, nur ohn
 
 ---?image=images/fazit_.jpg
 # Fazit
-* Tool zum Managen von Größe/Komplexität
-  * Haste keine Komplexität, lass es! (Keep it simple)
+* Tool zum agilen, schnellen Entwickeln großer Softwaresysteme
+  * Haste kein langsames, großes System, lass es! (Keep it simple)
 * Nur ein Tool, wie z.B. Agile
   * Wenn das Tool mal nicht passt, hilft Denken & Tweaken!
 * Hat sich in mehreren Projekten bewährt
   * Lernen aus den Erfahrungen, die es schon gibt!
-
 
 Note:
 Organisationststruktur ist nur eine Hilfe, genau wie Agilität, Passt nicht in Struktur / ist nicht in meiner Verantwortung ist keine gute Antwort (Denken hilft)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-# Verticals
-+++?include=/p-verticals/PITCHME.md
-
-
----
-# Warum Vertikale
---> Time to market
-
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_swArchitecture.jpg
-    beware of black boxes
-    beware of monoliths
-<!-- .element: class="fragment fade-out" style="font-size: 1em; color: #ff7700;" -->
-
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/SW-Lebenszyklus01.png
-
-+++
-# Was passiert bei Vertikalisierung?
-
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/FirmaReorga01.jpg
-
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/FirmaReorga02.jpg
-
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/TeamSplitVertical.png
-
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/DJ-MikroMakroArch.jpg
-
-
-
----
-# Fazit
-
-- Vertikslisierung ist cool, wenns groß wird
-- frühzeitig vertiakl denken
 
 +++
 <!-- .slide: data-background="#9B3036" style="text-align: left; font-size: 0.6em;"-->
@@ -222,10 +159,11 @@ Organisationststruktur ist nur eine Hilfe, genau wie Agilität, Passt nicht in S
 <!-- .element: style="color: white;" -->
 
 
-+++
++++?image=images/wer.jpg
+
 <!-- .slide: data-background="#9B3036" -->
 
 [![kommitment][1]][2]
-[1]: ttps://raw.githubusercontent.com/ahojsenn/assets/master/img/kommitment.png
+[1]: https://raw.githubusercontent.com/ahojsenn/assets/master/img/kommitment.png
 [2]: http://www.kommitment.biz
 <!-- .element: style="border: 0px !important;" -->
