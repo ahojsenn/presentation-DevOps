@@ -57,7 +57,15 @@ Wir schneiden vertikal. Das ist das Hauptprinzip der Vertikalisierung
 
 +++?image=images/schneiden.jpg
 Note:
-Wie schneiden wir die Teams?
+Wie schneiden wir die Teams? Schnitte rückgängig machen ist schwer.
+Es gibt keine Standard-Antwort.
+Reaktiv ist eine gute Antwort: Der Schnitt ergibt sich in einer konkreten Situation teils von selbst.
+Aber aufpassen: Vertikal bleiben, keine horizontalen Schnitte.
+Einfache Regel für E-Commerce: jedes Team sollte direkten Kontakt zum Kunden/Benutzer haben.
+
++++
+# TODO: Customer Journey
+suchen oder entdecken, bewerten, kaufen, prüfen
 
 
 
