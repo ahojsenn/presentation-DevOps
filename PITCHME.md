@@ -23,15 +23,19 @@
 - da muss sich was um 90° drehen im Kopf!
 <!-- .element: style="font-size: 3em; color: orange"-->
 Wer hat hier eigentlich den Hut auf?
-Note:
-![image](https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png)
 +++?image=https://i.ytimg.com/vi/rhU9_TbABvw/maxresdefault.jpg
 Ole Langbehn
 Johannes Mainusch
 +++?image=images/profilbild.jpg&size=auto 90%
 
 ---?image=images/zebra.png&size=auto 90%
+Note:
+Querstreifen machen dick. Und wenn man viel zu dick ist, wird man langsam und träge.
 
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/FirmaReorga01.jpg
+Note:
+Übertrag auf Dev-Teams: Spezialisten-Teams (Frontend, Backend, Operations, Data Science, ...) sind schlecht.
+Gegenbewegungen: DevOps, Cross Functional Teams
 
 
 
