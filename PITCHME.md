@@ -163,13 +163,3 @@ Organisationsstruktur ist nur eine Hilfe, genau wie Agilität, Passt nicht in St
 <!-- .element: style="color: white;" -->
 - [2018-02-05 Workshop Doku](https://drive.google.com/drive/folders/0Bzr9vgG2NdI0U0tjWkszd1dUNWc?usp=sharing)
 <!-- .element: style="color: white;" -->
-
-
-+++
-
-<!-- .slide: data-background="#9B3036" -->
-
-[![kommitment][1]][2]
-[1]: https://raw.githubusercontent.com/ahojsenn/assets/master/img/kommitment.png
-[2]: http://www.kommitment.biz
-<!-- .element: style="border: 0px !important;" -->
