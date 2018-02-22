@@ -11,7 +11,7 @@ da muss sich was um 90° drehen im Kopf!
 Note:
 Querstreifen machen dick. Und wenn man viel zu dick ist, wird man langsam und träge.
 
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/FirmaReorga01.jpg&width=50%
++++?image=images/FirmaReorga01.jpg
 Note:
 Übertrag auf Dev-Teams: Spezialisten-Teams (Frontend, Backend, Operations, Data Science, ...) sind schlecht.
 Eigentlich mehrere Teams in einem (Scrum Smell: PO muss alle Spezialisten auslasten)
@@ -22,7 +22,7 @@ Note:
 Selbst wenn man z.B. ein Team aus Full Stack Devs hat, skaliert das bei großen Aufgaben nicht gut.
 Kommunikation, Anzahl theoretische Beziehungen, nicht schlagkräftig.
 Was macht man dann? Mehrere Teams. Und welchen Schnitt wählt man dann?
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/FirmaReorga01.jpg&&width=50%&position=absolute&left=25%
++++?image=images/FirmaReorga01.jpg
 Note:
 Wenn man Teams horizontal nach Aufgabe schneidet (Frontend-Backend-Split), berührt fast jede Anforderung alle Schichten.
 
