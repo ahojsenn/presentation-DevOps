@@ -96,6 +96,7 @@ Was wären Alternativen?
 Bei Realtime-Anforderung: Kein Messagebus, sondern WebSockets.
 
 +++?image=images/rfc.png
+Note:
 Generell: RFCs/Standards statt Technologien. Beispiel GKH media types
 Beispiel: Cassandra als zentrale DB.
 
@@ -140,7 +141,9 @@ Organisations-Maßnahme: Gilden bilden, ähnlich zu Matrix-Organisation, nur ohn
   * Lernen aus den Erfahrungen, die es schon gibt!
 
 Note:
-Organisationststruktur ist nur eine Hilfe, genau wie Agilität, Passt nicht in Struktur / ist nicht in meiner Verantwortung ist keine gute Antwort (Denken hilft)
+Organisationsstruktur ist nur eine Hilfe, genau wie Agilität, Passt nicht in Struktur / ist nicht in meiner Verantwortung ist keine gute Antwort (Denken hilft)
+
++++?image=images/wer.jpg
 
 
 
@@ -161,7 +164,7 @@ Organisationststruktur ist nur eine Hilfe, genau wie Agilität, Passt nicht in S
 <!-- .element: style="color: white;" -->
 
 
-+++?image=images/wer.jpg
++++
 
 <!-- .slide: data-background="#9B3036" -->
 
