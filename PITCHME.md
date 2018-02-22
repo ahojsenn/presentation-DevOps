@@ -48,7 +48,7 @@ Was macht man dann? Mehrere Teams. Und welchen Schnitt wählt man dann?
 Note:
 Wenn man Teams horizontal nach Aufgabe schneidet (Frontend-Backend-Split), berührt fast jede Anforderung alle Schichten.
 
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/FirmaReorga01.jpg
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/FirmaReorga02.jpg
 Note:
 Wir schneiden vertikal. Das ist das Hauptprinzip der Vertikalisierung
 
@@ -66,7 +66,25 @@ Einfache Regel für E-Commerce: jedes Team sollte direkten Kontakt zum Kunden/Be
 +++
 # TODO: Customer Journey
 suchen oder entdecken, bewerten, kaufen, prüfen
+Notes:
+Gelöst: Die meisten Use-Cases/Feature Requests berühren nur ein Team. Abteilungen haben ein Dev-Team als Ansprechpartner.
 
++++?image=ttps://raw.githubusercontent.com/ahojsenn/assets/master/img/vertikaleKomponenten.png
+Andere Kultur: Jedes Team managt Produkt, Technik, Organisation selbst.
+Konzept Triade bei Otto.
+Geschwindigkeit durch Parallelisierung, trotzdem kleine, flexible Teams.
+
+---
+# Vertikalisierung, how?
+
++++
+# TODO: Shared nothing
+Note:
+Jedes Team hat eigene Infrastruktur, trifft eigene Technologieentscheidungen (Sprache, Datenbank).
+Es gibt dennoch übergreifende Aspekte, die zu sharing führen.
++++
+# TODO: MikroMakroArch
+Note:
 
 
 
