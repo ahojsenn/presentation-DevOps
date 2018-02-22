@@ -35,7 +35,30 @@ Querstreifen machen dick. Und wenn man viel zu dick ist, wird man langsam und tr
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/FirmaReorga01.jpg
 Note:
 Übertrag auf Dev-Teams: Spezialisten-Teams (Frontend, Backend, Operations, Data Science, ...) sind schlecht.
+Eigentlich mehrere Teams in einem (Scrum Smell: PO muss alle Spezialisten auslasten)
 Gegenbewegungen: DevOps, Cross Functional Teams
+
++++
+# TODO: Cloud of people
+Note:
+Selbst wenn man z.B. ein cross functional team hat, skaliert das bei großen Aufgaben nicht gut.
+Kommunikation, Anzahl theoretische Beziehungen, nicht schlagkräftig.
+Was macht man dann? Mehrere Teams. Und welchen Schnitt wählt man dann?
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/FirmaReorga01.jpg
+Note:
+Wenn man Teams horizontal nach Aufgabe schneidet (Frontend-Backend-Split), berührt fast jede Anforderung alle Schichten.
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/FirmaReorga01.jpg
+Note:
+Wir schneiden vertikal. Das ist das Hauptprinzip der Vertikalisierung
+
+---
+# Vertikalisierung, what?
+
++++?image=images/schneiden.jpg
+Note:
+Wie schneiden wir die Teams?
+
 
 
 
