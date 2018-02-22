@@ -7,6 +7,7 @@ Wer hat hier eigentlich den Hut auf?
 Ole Langbehn
 Johannes Mainusch
 +++?image=images/profilbild.jpg&size=auto 90%
++++?image=images/johannes-mainusch.jpg&size=auto 90%
 
 ---?image=images/zebra.png&size=auto 90%
 Note:
@@ -104,8 +105,7 @@ Bei Realtime-Anforderung: Kein Messagebus, sondern WebSockets.
 Generell: RFCs/Standards statt Technologien. Beispiel GKH media types
 Beispiel: Cassandra als zentrale DB.
 
-+++
-# TODO: Monitoring & Logging
++++?image=images/seismograph.jpg
 Note:
 Anforderung von außen könnte sein: Zentrales System für Einsicht von Monitoring & Logging.
 Pitfall Beispiel Logging: Wenn ein Team ein zentrales System für alle betreibt, dann sind alle anderen sorgenfrei: Datenvolumen, Logging Spikes etc.
