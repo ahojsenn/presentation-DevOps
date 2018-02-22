@@ -28,7 +28,7 @@ Note:
 +++?image=https://i.ytimg.com/vi/rhU9_TbABvw/maxresdefault.jpg
 Ole Langbehn
 Johannes Mainusch
----?image=images/profilbild.jpg
+---?image=images/profilbild.jpg&size=auto 90%
 foobar
 +++
 
