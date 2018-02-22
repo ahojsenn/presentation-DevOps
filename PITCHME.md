@@ -66,10 +66,11 @@ Einfache Regel für E-Commerce: jedes Team sollte direkten Kontakt zum Kunden/Be
 +++
 # TODO: Customer Journey
 suchen oder entdecken, bewerten, kaufen, prüfen
-Notes:
+Note:
 Gelöst: Die meisten Use-Cases/Feature Requests berühren nur ein Team. Abteilungen haben ein Dev-Team als Ansprechpartner.
 
 +++?image=ttps://raw.githubusercontent.com/ahojsenn/assets/master/img/vertikaleKomponenten.png
+Note:
 Andere Kultur: Jedes Team managt Produkt, Technik, Organisation selbst.
 Konzept Triade bei Otto.
 Geschwindigkeit durch Parallelisierung, trotzdem kleine, flexible Teams.
@@ -80,11 +81,42 @@ Geschwindigkeit durch Parallelisierung, trotzdem kleine, flexible Teams.
 +++
 # TODO: Shared nothing
 Note:
-Jedes Team hat eigene Infrastruktur, trifft eigene Technologieentscheidungen (Sprache, Datenbank).
+Jedes Team hat eigene Infrastruktur, trifft eigene Technologieentscheidungen (Sprache, Datenbank). Analog zum DDD hat jedes Team seine Domain mit seinen Fachobjekten (TODO: Beispiel)
 Es gibt dennoch übergreifende Aspekte, die zu sharing führen.
-+++
-# TODO: MikroMakroArch
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/DJ-MikroMakroArch.jpg
 Note:
+Es folgen ein paar Makroarchitektur-Klassiker
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/VertikaleIntegration.jpg
+
++++
+# Frontend-Integration
+Pattern Library
+Note:
+
++++
+# Frontend-Integration
+Vortrag von Oliver Zeigermann
+
+https://djcordhose.github.io/architecture/2018_oop.html
+
+Note:
+Möglichkeiten: Links, SSIs, Microcomponents (SPAs)
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/VertikaleIntegration.jpg
+Note:
+Datenaustausch: 
+
+Makroarchitektur-Klassiker:
+Frontend-Integration
+Datenaustausch
+Tracking
+Logging & Monitoring
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/VertikaleIntegration.jpg
+Note:
+Frontends der Vertikalen müssen integriert werden, Daten müssen ausgetauscht werden
+
 
 
 
