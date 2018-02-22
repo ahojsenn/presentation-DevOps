@@ -91,11 +91,6 @@ Es folgen ein paar Makroarchitektur-Klassiker
 
 +++
 # Frontend-Integration
-Pattern Library
-Note:
-
-+++
-# Frontend-Integration
 Vortrag von Oliver Zeigermann
 
 https://djcordhose.github.io/architecture/2018_oop.html
@@ -103,9 +98,30 @@ https://djcordhose.github.io/architecture/2018_oop.html
 Note:
 Möglichkeiten: Links, SSIs, Microcomponents (SPAs)
 
++++
+# Frontend-Integration
+Pattern Library
+Note:
+Übergreifendes, konsistentes Design auf der Webseite, Sicherstellen von Reaktivität, Konformität über Viewports hinweg.
+Die einzelnen Frontends können auf High-Level-Komponenten zurückgreifen, die in der Darstellung korrekt sind. Entwicklung zentral, Verteilung über versionierte Library.
+
+Bei Breuninger technische Bindung (handlebars templating), was besseres ist uns nicht eingefallen.
+
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/VertikaleIntegration.jpg
 Note:
-Datenaustausch: 
+Datenaustausch:
+Service Discovery z.B. über JSON Home (Endpunkte können zur Laufzeit geändert werden)
+Datenaustausch bei Breuninger über REST, Multipart.
+Was wären Alternativen?
+Kein Messagebus, sondern WebSockets.
+Generell: RFCs/Standards über Technologien.
+
++++
+# TODO: Monitoring & Logging
+Note:
+Anforderung von außen könnte sein: Zentrales System für Einsicht von Monitoring & Logging.
+Pitfall Beispiel Logging: Wenn ein Team ein zentrales System für alle betreibt, dann sind alle anderen sorgenfrei: Datenvolumen, Logging Spikes etc.
+
 
 Makroarchitektur-Klassiker:
 Frontend-Integration
