@@ -50,6 +50,12 @@ Note:
 Andere Kultur: Jedes Team managt Produkt, Technik, Organisation selbst.
 Konzept Triade bei Otto.
 
++++?image=https://github.com/ahojsenn/assets/blob/master/img/vertikaleTeams.png
+Note:
+Im Team besteht auch wieder die Möglichkeit, z.B. über Microservices vertikale Strukturen aufzubauen
+
++++?image=https://github.com/ahojsenn/assets/blob/master/img/TeamSplitVertikal.png
+
 +++?image=images/speedboats_.jpg&size=auto 90%
 Note:
 Geschwindigkeit durch Parallelisierung, trotzdem kleine, flexible Teams.
