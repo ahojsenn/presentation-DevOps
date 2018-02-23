@@ -109,7 +109,7 @@ Note:
 Generell: RFCs/Standards statt Technologien. Beispiel GKH media types
 Beispiel: Cassandra als zentrale DB.
 
-+++?image=images/resilienz.jpg
++++?image=images/tchernobyl.jpg
 Note:
 Wichtig: Resilienz, Stabilität. Schon unterstützt durch asynchrone Kommunikation. Bei Implementierung von Schnittstellen immer auch an den Schlechtfall denken. Alte Daten sind besser als keine Daten. Entschuldigungen sind besser als Exceptions.
 Datendesign: Beispiel Preise: mehrere mit Startdatum.
