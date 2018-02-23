@@ -53,7 +53,8 @@ Entwickler bauen in solch fachlich fokussierten Teams Domänenwissen auf. Teams 
 
 +++?image=https://github.com/ahojsenn/assets/blob/master/img/vertikaleTeams.png
 Note:
-Im Team besteht auch wieder die Möglichkeit, z.B. über Microservices vertikale Strukturen aufzubauen
+Im Team besteht auch wieder die Möglichkeit, z.B. über Microservices vertikale Strukturen aufzubauen.
+Teams können viel leichter verteilt arbeiten.
 
 +++?image=https://github.com/ahojsenn/assets/blob/master/img/TeamSplitVertikal.png
 
@@ -143,12 +144,7 @@ Organisations-Maßnahme: Gilden bilden, ähnlich zu Matrix-Organisation, nur ohn
 # Fazit
 * Pattern für skalierbare, schnelle Softwareentwicklung
   * Wartbarkeit und Ersetzbarkeit wird erhöht
-
-
-* Tool zum agilen, schnellen Entwickeln großer Softwaresysteme
-  * Haste kein langsames, großes System, lass es! (Keep it simple)
-* Nur ein Tool, wie z.B. Agile
-  * Wenn das Tool mal nicht passt, hilft Denken & Tweaken!
+  * Verteilung wird möglich
 * Hat sich in mehreren Projekten bewährt
   * Lernen aus den Erfahrungen, die es schon gibt!
 
