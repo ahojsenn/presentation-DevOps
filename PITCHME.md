@@ -13,22 +13,32 @@ Querstreifen machen dick. Und wenn man viel zu dick ist, wird man langsam und tr
 
 +++?image=images/FirmaReorga01.jpg
 Note:
-Übertrag auf Dev-Teams: Spezialisten-Teams (Frontend, Backend, Operations, Data Science, ...) sind schlecht.
+
+Übertrag auf Dev-Teams:
+
+Spezialisten-Teams (Frontend, Backend, Operations, Data Science, ...)
+
+Das ist schlecht.
+
 Eigentlich mehrere Teams in einem (Scrum Smell: PO muss alle Spezialisten auslasten)
+Die meisten Anforderungen müssen von mehreren Schichten bearbeitet werden.
 Gegenbewegungen: DevOps, Full Stack Developer
 
 +++?image=images/entwicklerwolke_.jpg
 Note:
 Selbst wenn man z.B. ein Team aus Full Stack Devs hat, skaliert das bei großen Aufgaben nicht gut.
 Kommunikation, Anzahl theoretische Beziehungen, nicht schlagkräftig.
-Was macht man dann? Mehrere Teams. Und welchen Schnitt wählt man dann?
+Was macht man dann? Mehrere Teams.
+Und welchen Schnitt wählt man dann?
+
 +++?image=images/FirmaReorga01.jpg
 Note:
 Wenn man Teams horizontal nach Aufgabe schneidet (Frontend-Backend-Split), berührt fast jede Anforderung alle Schichten.
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/FirmaReorga02.jpg
 Note:
-Wir schneiden vertikal. Das ist das Hauptprinzip der Vertikalisierung
+Stattdessen nutzen wir den Vorteil wie bei Full Stack Devs, schneiden vertikal.
+Nur wie geht das genau?
 
 ---
 # Vertikalisierung, what?
@@ -62,7 +72,6 @@ Teams können viel leichter verteilt arbeiten.
 Note:
 Geschwindigkeit durch Parallelisierung, trotzdem kleine, flexible Teams.
 
-
 ---
 # Vertikalisierung, how?
 
@@ -70,9 +79,12 @@ Geschwindigkeit durch Parallelisierung, trotzdem kleine, flexible Teams.
 Note:
 Jedes Team hat eigene Infrastruktur, trifft eigene Technologieentscheidungen (Sprache, Datenbank). Analog zum DDD hat jedes Team seine Domain mit seinen Fachobjekten (Bei Kaufen hat ein Kunde Adressen, bei Entdecken stattdessen einen Clickstream)
 Es gibt dennoch übergreifende Aspekte, die zu sharing führen. (Die Wolke im Background ist shared, fällt gar nicht auf, oder?)
+
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/DJ-MikroMakroArch.jpg
 Note:
 Es folgen ein paar Makroarchitektur-Klassiker
+Wie EU- vs. Kommunalrecht.
+Projektspezifisch.
 
 +++?image=images/integration_.jpg&size=auto 90%
 Note:
@@ -85,7 +97,10 @@ Vortrag von Oliver Zeigermann
 https://djcordhose.github.io/architecture/2018_oop.html
 
 Note:
-Möglichkeiten: Links, SSIs, Microcomponents (SPAs)
+Was nicht geht, ist ein übergreifender Monolith. (beste Erfahrung für den Benutzer)
+Möglichkeiten:
+Links, SSIs,
+Microcomponents (iframes)
 
 +++
 # Frontend-Integration
