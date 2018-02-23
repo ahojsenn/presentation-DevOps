@@ -173,12 +173,7 @@ Organisationsstruktur ist nur eine Hilfe, genau wie Agilität, Passt nicht in St
 # Related stuff
 
 - [Ralf Wirdemann, Johannes Mainusch, Scrum mit User Stories, Kapitel 12 "SCRUM@OTTO"](http://www.hanser-fachbuch.de/buch/Scrum+mit+User+Stories/9783446450523)
-<!-- .element: style="color: white;" -->
 - [Dr. John Kotter, Accelerate! The Evolution of the 21st Century Organization](https://www.youtube.com/watch?v=Pc7EVXnF2aI)
-<!-- .element: style="color: white;" -->
 - [Johannes Mainusch, "otto.de – wie die Titanic den Eisberg verfehlte"](https://www.heise.de/developer/artikel/Johannes-Mainusch-otto-de-wie-die-Titanic-den-Eisberg-verfehlte-3491223.html)
-<!-- .element: style="color: white;" -->
 - [Johannes Mainusch, Manage Chaos](https://gitpitch.com/kommitment/verticals/master?grs=bitbucket&p=p-intro)
-<!-- .element: style="color: white;" -->
 - [2018-02-05 Workshop Doku](https://drive.google.com/drive/folders/0Bzr9vgG2NdI0U0tjWkszd1dUNWc?usp=sharing)
-<!-- .element: style="color: white;" -->
