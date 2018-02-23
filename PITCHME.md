@@ -51,12 +51,12 @@ Andere Kultur: Jedes Team managt Produkt, Technik, Organisation selbst.
 Konzept Triade bei Otto.
 Entwickler bauen in solch fachlich fokussierten Teams Domänenwissen auf. Teams sprechen Stakeholder-Sprache.
 
-+++?image=https://github.com/ahojsenn/assets/blob/master/img/vertikaleTeams.png
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/vertikaleTeams.png
 Note:
 Im Team besteht auch wieder die Möglichkeit, z.B. über Microservices vertikale Strukturen aufzubauen.
 Teams können viel leichter verteilt arbeiten.
 
-+++?image=https://github.com/ahojsenn/assets/blob/master/img/TeamSplitVertikal.png
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/TeamSplitVertikal.png
 
 +++?image=images/speedboats_.jpg&size=auto 90%
 Note:
