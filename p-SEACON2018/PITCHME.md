@@ -4,6 +4,15 @@
 Vortrag auf der sea-con 2018
 <!-- .element: style="font-size: 2em; color: orange"-->
 
++++
+# Abstract
+Vertikalen sind ein Architektur- und Organisationsmuster. Sie übertragen das Prinzip der losen Kopplung auf Entwicklungsteams, indem Organisation und Softwarearchitektur Hand in Hand „vertikalisiert“ werden. Organisatorische Vertikalisierung bedeutet unabhängige, cross-funktionale Teams, die für eine klar abgrenzbare fachlichen Domäne verantwortlich sind. Vertikalisierung schafft unabhängige Teams und IT-Komponenten und hilft bei der Skalierung und Verteilung von Produktentwicklung.
+Beispiele: XING, OTTO, EPOST, Breuninger, Berenberg, Spotify
+
+Zielpublikum: Produktmanager, Architekten, Entwickler, Line-Management, Agile Coaches
+Voraussetzungen: none
+Schwierigkeitsgrad: Mittel
+
 +++?image=images/johannes-mainusch.jpg&size=auto 90%
 
 
