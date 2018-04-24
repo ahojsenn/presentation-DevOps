@@ -1,7 +1,11 @@
 # Intro
 
+# Conference
+SEA-CON 2018
+[https://www.sea-con.de/seacon2018.html?gclid=EAIaIQobChMI5OvP6-jT2gIVYTPTCh0I_gzIEAAYASAAEgKTdfD_BwE](https://www.sea-con.de/seacon2018.html?gclid=EAIaIQobChMI5OvP6-jT2gIVYTPTCh0I_gzIEAAYASAAEgKTdfD_BwE)
+
 # to view the presentation
-open [https://gitpitch.com/kommitment/verticals/master?grs=bitbucket&p=p-verticals](https://gitpitch.com/kommitment/verticals/master?grs=bitbucket&p=p-verticals)
+open [https://gitpitch.com/kommitment/verticals/master?grs=bitbucket&p=p-SEACON2018](https://gitpitch.com/kommitment/verticals/master?grs=bitbucket&p=p-SEACON2018)
 
 # Authors
 - Johannes Mainusch, #docjoe
