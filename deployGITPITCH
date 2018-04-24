@@ -13,7 +13,7 @@ then
     mv PITCHME/assets/img PITCHME/assets/img.old
     ln -s $PWD/assets/css $PWD/PITCHME/assets/.
     ln -s $PWD/assets/img $PWD/PITCHME/assets/.
-    ln -s $PWD/PITCHME.md $PWD/PITCHME/assets/md/PITCHME.md 
+    ln -s $PWD/PITCHME.md $PWD/PITCHME/assets/md/PITCHME.md
     killall python
     cd PITCHME
     python -m SimpleHTTPServer & open http://localhost:8000 && fg
@@ -25,5 +25,4 @@ git add .
 git commit -m "fixes..."
 git pull --rebase
 git push
-open https://gitpitch.com/ahojsenn/presentation-DevOps/master?grs=github
-
+open https://gitpitch.com/ahojsenn/presentation-DevOps/master?grs=github&p=p-seacon2018
