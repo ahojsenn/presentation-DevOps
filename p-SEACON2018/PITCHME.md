@@ -4,7 +4,6 @@
 Vortrag auf der sea-con 2018
 <!-- .element: style="font-size: 2em; color: orange"-->
 
-+++?image=images/profilbild.jpg&size=auto 90%
 +++?image=images/johannes-mainusch.jpg&size=auto 90%
 
 
@@ -17,7 +16,7 @@ Vortrag auf der sea-con 2018
 
 
 +++
-<!-- .slide: data-background="#9B3036" style="text-align: left; font-size: 0.6em;"-->
+<!-- .slide: style="text-align: left; font-size: 0.6em;"-->
 # Related stuff
 
 - [Ralf Wirdemann, Johannes Mainusch, Scrum mit User Stories, Kapitel 12 "SCRUM@OTTO"](http://www.hanser-fachbuch.de/buch/Scrum+mit+User+Stories/9783446450523)
