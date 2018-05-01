@@ -5,7 +5,7 @@ sea-con 2018
 [https://www.sea-con.de/seacon2018.html?gclid=EAIaIQobChMI5OvP6-jT2gIVYTPTCh0I_gzIEAAYASAAEgKTdfD_BwE](https://www.sea-con.de/seacon2018.html?gclid=EAIaIQobChMI5OvP6-jT2gIVYTPTCh0I_gzIEAAYASAAEgKTdfD_BwE)
 
 # to view the presentation
-open [https://gitpitch.com/ahojsenn/presentation-DevOps/master?grs=github&p=p-seacon2018](https://gitpitch.com/ahojsenn/presentation-DevOps/master?grs=github&p=p-seacon2018)
+open [https://gitpitch.com/ahojsenn/presentation-DevOps/master?p=p-seacon2018](https://gitpitch.com/ahojsenn/presentation-DevOps/master?p=p-seacon2018)
 
 # Authors
 - Johannes Mainusch, #docjoe

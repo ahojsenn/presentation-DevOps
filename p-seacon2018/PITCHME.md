@@ -3,7 +3,7 @@
 <!-- .element: style="font-size: 3em; color: orange"-->
 Vortrag auf der sea-con 2018
 <!-- .element: style="font-size: 2em; color: orange"-->
-[https://gitpitch.com/ahojsenn/presentation-DevOps/master?grs=github&p=p-seacon2018](https://gitpitch.com/ahojsenn/presentation-DevOps/master?grs=github&p=p-seacon2018)
+[https://gitpitch.com/ahojsenn/presentation-DevOps/master?p=p-seacon2018](https://gitpitch.com/ahojsenn/presentation-DevOps/master?p=p-seacon2018)
 
 +++
 <!-- .slide: style="text-align: left; font-size: 0.6em;"-->
@@ -18,13 +18,13 @@ Schwierigkeitsgrad: Mittel
 +++?image=images/johannes-mainusch.jpg&size=auto 90%
 
 
+---?include=../p-verticals/PITCHME.md
 
 
 
 
 
-
-
+---
 
 +++
 <!-- .slide: style="text-align: left; font-size: 0.6em;"-->
