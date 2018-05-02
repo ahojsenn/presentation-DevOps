@@ -77,4 +77,4 @@ vertical teams
 <!-- .element: class="fragment fade-out" -->
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/dreiFragezeichen.jpg
-# noch Fragen zu verticals?
+# noch Fragen zu verticals?<br><br>
