@@ -13,7 +13,7 @@ Eigentlich mehrere Teams in einem (Scrum Smell: PO muss alle Spezialisten auslas
 Die meisten Anforderungen müssen von mehreren Schichten bearbeitet werden.  
 Gegenbewegungen: DevOps, Full Stack Developer
 
-+++?image=images/entwicklerwolke_.jpg
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_swArchitecture.jpg
 Note:
 Selbst wenn man z.B. ein Team aus Full Stack Devs hat, skaliert das bei großen Aufgaben nicht gut.  
 Kommunikation, Anzahl theoretische Beziehungen, nicht schlagkräftig.  
