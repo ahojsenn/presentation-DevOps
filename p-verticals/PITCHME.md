@@ -10,7 +10,7 @@ Ziel 0: Das ideale ich
 - ich kann ruhig schlafen
 - Grundbedürfnisse geregelt
 </div>
-<!-- .element: class="fragment fade-in" style="font-size: 1.4em; color: #ff7700; background-color: rgba(37,37,37,0.7)" -->
+<!-- .element: class="fragment fade-in" style="text-align: left; font-size: 1.4em; color: #ff7700; background-color: rgba(37,37,37,0.86)" -->
 
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/team.jpg
