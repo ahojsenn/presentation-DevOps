@@ -19,6 +19,7 @@ Schwierigkeitsgrad: Mittel
 
 +++?image=images/johannes-mainusch.jpg&size=auto 90%
 
+---?include=p-statusquo/PITCHME.md
 
 ---?include=p-verticals/PITCHME.md
 
