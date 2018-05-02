@@ -1,6 +1,4 @@
 .reveal .slides {
-  text-align: left;
-  color: red;
 }
 
 .reveal .slides section>* {
@@ -9,7 +7,8 @@
 }
 
 .reveal .slides .fragment {
-  margin-left: 0;
-  margin-right: 0;
-  color: red;
+  text-align: left;
+  color: #ff7700;
+  font-size: 1em;
+  background-color: rgba(37,37,37,0.86);
 }

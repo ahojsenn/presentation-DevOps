@@ -29,12 +29,11 @@ Ziel 0: Das ideale ich
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/orga01.png
 <div>
-# Ziel 2
-# Die ideale (change) Organisationen
+Ziel 2: Die ideale (change) Organisationen
 - besteht aus eigenverantwortlichen unabhängigen Teams (shared nothing)
 - hat eine gemeinsame Vision
 - ist effizient / kann gut skalieren
-- Die Organsation liefert exzellente Produkte/Services obwohl diese verteilt entstehen
+- Die Organisation liefert exzellente Produkte/Services obwohl diese verteilt entstehen
 - ist innovativ/effektiv
 </div>
 <!-- .element: class="fragment fade-in" -->
