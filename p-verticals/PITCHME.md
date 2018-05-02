@@ -1,6 +1,7 @@
-<!-- .slide: style="text-align: left; font-size: 0.6em;"-->
 
----?image=ttps://raw.githubusercontent.com/ahojsenn/assets/master/img/maslow.jpg
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/vertikaleKomponenten.png
+<!-- .slide: data-background="#EBD5D6" style="text-align: left; font-size: 0.6em;" -->
 # Ziel 0
 # Das ideale ich
 - ich kann etwas erreichen
@@ -8,9 +9,11 @@
 - ich lerne dazu
 - ich kann ruhnig schlafen
 - meine Grundbedürfnisse sind geregelt
+<!-- .element: class="fragment fade-out" style="font-size: 2em; color: #ff7700;" -->
 
+
++++
 <!-- .slide: style="text-align: left; font-size: 0.6em;"-->
-
 # Ziel 1
 # Das ideale Team
 - unabhängig, share nothing (but beer and knowledge)
@@ -42,7 +45,7 @@ Frage: Hilft es auch das Chaos in den Griff zu bekommen?
 # HOW
 <!-- .element: style="font-size: 5em; "-->
 
-+++?image=ttps://raw.githubusercontent.com/ahojsenn/assets/master/img/vertikaleKomponenten.png
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/vertikaleKomponenten.png
 <!-- .slide: data-background="#EBD5D6" style="text-align: left; font-size: 0.6em;" -->
 	vertical components
 <!-- .element: class="fragment fade-out" style="font-size: 2em; color: #ff7700;" -->
@@ -50,7 +53,7 @@ Note:
 Vertikale Komponenten, d.h. die teilen sich nix. Schnittstellen über REST. Lose Kopplung im Frontend über Integration im Frontend (oder in  einem Page-Asseembly-Proxy).
 
 
-+++?image=ttps://raw.githubusercontent.com/ahojsenn/assets/master/img/vertikaleTeams.png
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/vertikaleTeams.png
 <!-- .slide: data-background="#EBD5D6" style="text-align: left; font-size: 0.6em;" -->
 	# vertical teams
 	- Teamaufgaben sind für Laien verständlich
@@ -60,7 +63,7 @@ Vertikale Komponenten, d.h. die teilen sich nix. Schnittstellen über REST. Lose
 	- Iterativ und agil --> KVP
 <!-- .element: class="fragment fade-out" style="font-size: 1em; color: #ff7700;" -->
 
-+++?image=ttps://raw.githubusercontent.com/ahojsenn/assets/master/img/_4D-Organisation.jpg
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_4D-Organisation.jpg
 <!-- .slide: data-background="#EBD5D6" style="text-align: left; font-size: 0.6em;" -->
 	4D-Organization
 	- Spezialisierung im Management: bspw. 4-Dimensionen
