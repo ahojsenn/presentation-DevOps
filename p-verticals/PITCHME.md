@@ -10,21 +10,23 @@
 	- ich kann ruhig schlafen
 	- Grundbedürfnisse geregelt
 </div>
-<!-- .element: class="fragment fade-in" style="font-size: 2em; color: #ff7700;" -->
+<!-- .element: class="fragment fade-in" style="font-size: 1.4em; color: #ff7700;" -->
 
 
-+++
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/team.jpg
 <!-- .slide: style="text-align: left; font-size: 0.6em;"-->
-# Ziel 1
-# Das ideale Team
-- unabhängig, share nothing (but beer and knowledge)
-- kann den Erfolg seiner Arbeit selber messen
-- ist flexibel bei Anforderungsänderungen
-- Das Produkt ist verstehbar
-- das Team lernt und verbessert sich ständig
-	- fachlich: in seiner Domäne
-	- technisch: in seinem Tech-Stack
-	- methodisch: in seiner Kommunikation
+<div> Ziel 1: Das ideale Team
+	- unabhängig, share nothing (but beer and knowledge)
+	- kann den Erfolg seiner Arbeit selber messen
+	- ist flexibel bei Anforderungsänderungen
+	- Das Produkt ist verstehbar
+	- das Team lernt und verbessert sich ständig
+		- fachlich: in seiner Domäne
+		- technisch: in seinem Tech-Stack
+		- methodisch: in seiner Kommunikation
+</div>
+<!-- .element: class="fragment fade-in" style="font-size: 1.4em; color: #ff7700;" -->
+
 
 +++
 <!-- .slide: style="text-align: left; font-size: 0.6em;" -->
