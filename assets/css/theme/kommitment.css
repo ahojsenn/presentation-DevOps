@@ -1,4 +1,9 @@
 .reveal .slides {
+  color: white;
+  background-color: rgba(37,37,37,1.0);
+}
+
+.reveal .slides h1 {
   color: #75efee;
 }
 
