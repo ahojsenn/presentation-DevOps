@@ -1,8 +1,8 @@
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
 # Vertikale Organisation
 <!-- .element: style="font-size: 3em; color: orange"-->
-Vortrag auf der sea-con 2018
-<!-- .element: style="font-size: 2em; color: orange"-->
+sea-con 2018
+<!-- .element: style="font-size: 0.5em; color: orange"-->
 [https://gitpitch.com/ahojsenn/presentation-DevOps/master?p=p-seacon2018](https://gitpitch.com/ahojsenn/presentation-DevOps/master?p=p-seacon2018)
 
 +++
@@ -12,7 +12,9 @@ Vertikalen sind ein Architektur- und Organisationsmuster. Sie übertragen das Pr
 Beispiele: XING, OTTO, EPOST, Breuninger, Berenberg, Spotify
 
 Zielpublikum: Produktmanager, Architekten, Entwickler, Line-Management, Agile Coaches
+
 Voraussetzungen: none
+
 Schwierigkeitsgrad: Mittel
 
 +++?image=images/johannes-mainusch.jpg&size=auto 90%
