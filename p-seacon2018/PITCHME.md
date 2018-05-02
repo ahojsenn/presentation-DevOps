@@ -2,6 +2,7 @@
 # Vertikale Organisation
 <!-- .element: style="font-size: 3em; color: orange"-->
 sea-con 2018
+
 <!-- .element: style="font-size: 0.5em; color: orange"-->
 [https://gitpitch.com/ahojsenn/presentation-DevOps/master?p=p-seacon2018](https://gitpitch.com/ahojsenn/presentation-DevOps/master?p=p-seacon2018)
 

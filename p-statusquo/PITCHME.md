@@ -1,5 +1,6 @@
 # STATUS QUO
----?image=images/zebra.png&size=auto 90%
+
++++?image=images/zebra.png&size=auto 90%
 Note:
 Querstreifen machen dick. Und wenn man viel zu dick ist, wird man langsam und träge.
 
@@ -27,3 +28,6 @@ Wenn man Teams horizontal nach Aufgabe schneidet (Frontend-Backend-Split), berü
 Note:
 Stattdessen nutzen wir den Vorteil wie bei Full Stack Devs, schneiden vertikal.  
 Nur wie geht das genau?
+
++++?image=images/verticals.jpg
+# go Vertikal!
