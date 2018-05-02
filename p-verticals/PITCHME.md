@@ -60,16 +60,18 @@ vertical teams
 - Teamaufgaben sind für Laien verständlich
 - Änderungswünsche sind einfach auf Teams zuzuordnen
 - fachliche Schnitte entlang der Wertschöpfungskette
-    	(entlang von Services, Produkten, der user-journey)
+ (entlang von Services, Produkten, der user-journey)
 - Iterativ und agil --> KVP
 </div>
 <!-- .element: class="fragment fade-out" -->
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_4D-Organisation.jpg
+<div>
 4D-Organization
 - Spezialisierung im Management: bspw. 4-Dimensionen
 - Restabhängigkeiten werden in diesen
-	  Dimensionen behandelt (Gilden, CoPs, ...)
+ Dimensionen behandelt (Gilden, CoPs, ...)
 - Die Organsation liefert exzellente Produkte/Services
 - Personalverantwortung macht kein Micromanagement
+</div>
 <!-- .element: class="fragment fade-out" -->
