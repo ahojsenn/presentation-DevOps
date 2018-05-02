@@ -29,5 +29,5 @@ Note:
 Stattdessen nutzen wir den Vorteil wie bei Full Stack Devs, schneiden vertikal.  
 Nur wie geht das genau?
 
-+++?image=images/verticals.jpg
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/verticals.jpg
 # go Vertikal!
