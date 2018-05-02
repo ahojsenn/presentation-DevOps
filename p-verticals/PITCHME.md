@@ -2,13 +2,14 @@
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/maslow.png
 <!-- .slide: data-background="#EBD5D6" style="text-align: left; font-size: 0.6em;" -->
-	Ziel 0: Das ideale ich
+<div>	Ziel 0: Das ideale ich
 	- ich kann etwas erreichen
 	- meine Arbeit macht Sinn
 	- ich lerne dazu
-	- ich kann ruhnig schlafen
-	- meine Grundbedürfnisse sind geregelt
-<!-- .slide: class="fragment fade-out" style="font-size: 2em; color: #ff7700;" -->
+	- ich kann ruhig schlafen
+	- Grundbedürfnisse geregelt
+</div>
+<!-- .element: class="fragment fade-out" style="font-size: 2em; color: #ff7700;" -->
 
 
 +++
