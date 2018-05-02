@@ -1,9 +1,4 @@
 title : verticals
 logo: http://www.kommitment.biz/typo3temp/_processed_/e/4/csm_logo_436x232_deef2d955d.png
 theme: white
-theme-override: assets/css/kommitment.css
-
-
-
-
-    
+theme-override: assets/css/theme/kommitment.css
