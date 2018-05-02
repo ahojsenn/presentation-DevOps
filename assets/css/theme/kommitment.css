@@ -1,6 +1,5 @@
 body {
   background-color: #2f3032;
-  background-color: orange;
 }
 
 .reveal .slides {
@@ -9,6 +8,7 @@ body {
 
 .reveal .slides h1 {
   color: #75efee;
+  color: orange;
 }
 
 .reveal .slides section>* {
