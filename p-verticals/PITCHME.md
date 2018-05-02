@@ -27,8 +27,8 @@ Ziel 0: Das ideale ich
 </div>
 <!-- .element: class="fragment fade-in" style="text-align: left; font-size: 1em; color: #ff7700; background-color: rgba(37,37,37,0.86)" -->
 
-+++
-<!-- .slide: style="text-align: left; font-size: 0.6em;" -->
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/orga01.png
+<div>
 # Ziel 2
 # Die ideale (change) Organisationen
 - besteht aus eigenverantwortlichen unabhängigen Teams (shared nothing)
@@ -36,7 +36,8 @@ Ziel 0: Das ideale ich
 - ist effizient / kann gut skalieren
 - Die Organsation liefert exzellente Produkte/Services obwohl diese verteilt entstehen
 - ist innovativ/effektiv
-
+</div>
+<!-- .element: class="fragment fade-in" -->
 
 Note:
 Warum: um Chaos zu vermeiden.
