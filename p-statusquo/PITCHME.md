@@ -33,3 +33,4 @@ Nur wie geht das genau?
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/verticals.jpg
 # go Vertikal!
+<!-- .element: style="color: orange; "-->
