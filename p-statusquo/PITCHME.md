@@ -20,7 +20,7 @@ Kommunikation, Anzahl theoretische Beziehungen, nicht schlagkräftig.
 Was macht man dann? Mehrere Teams.  
 Und welchen Schnitt wählt man dann?  
 
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_swArchitecture-inv.jpg
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_swArchitecture.jpg
 
 +++?image=images/FirmaReorga01.jpg
 Note:
