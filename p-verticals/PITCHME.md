@@ -1,23 +1,23 @@
 
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/maslow.jpg
-
 <div>
 Ziel 0: Das ideale ich
-- ich kann etwas erreichen
 - meine Arbeit macht Sinn
-- ich lerne dazu
+- ich kann etwas erreichen
+- ich lerne dazu, bin offen für neues, selbstreflektiert
 - ich kann ruhig schlafen
 - Grundbedürfnisse geregelt
 </div>
-<!-- .element: class="fragment fade-in" style="text-align: left; font-size: 1.4em; color: #ff7700; background-color: rgba(37,37,37,0.86)" -->
+<!-- .element: class="fragment fade-in" style="text-align: left; font-size: 1em; color: #ff7700; background-color: rgba(37,37,37,0.86)" -->
 
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/team.jpg
-<!-- .slide: style="text-align: left; font-size: 0.6em;"-->
 <div> Ziel 1: Das ideale Team
-	- unabhängig, share nothing (but beer and knowledge)
-	- kann den Erfolg seiner Arbeit selber messen
+	- ist im flow...
+	- kann den Erfolg seiner Arbeit selber beeinflussen
+		- dazu gehört Erfolg messen
+	- wartet ungern auf Zuarbeit
 	- ist flexibel bei Anforderungsänderungen
 	- Das Produkt ist verstehbar
 	- das Team lernt und verbessert sich ständig
@@ -25,9 +25,7 @@ Ziel 0: Das ideale ich
 		- technisch: in seinem Tech-Stack
 		- methodisch: in seiner Kommunikation
 </div>
-<!-- .element: class="fragment fade-in" style="font-size: 1.4em; color: #ff7700;" -->
-
-<!-- .element: class="fragment fade-in" style="font-size: 1.4em; color: #ff7700; background-color: rgba(37,37,37,0.7)" -->
+<!-- .element: class="fragment fade-in" style="text-align: left; font-size: 1em; color: #ff7700; background-color: rgba(37,37,37,0.86)" -->
 
 +++
 <!-- .slide: style="text-align: left; font-size: 0.6em;" -->
