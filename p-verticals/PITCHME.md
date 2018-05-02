@@ -1,7 +1,7 @@
 
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/maslow.jpg
-<!-- .slide: tyle="text-align: left; font-size: 0.6em;" -->
+<!-- .slide: class="fragment fade-in" style="text-align: left; font-size: 0.6em; style="font-size: 1.4em; color: #ff7700; background-color: rgba(37,37,37,0.7)" -->
 <div>
 Ziel 0: Das ideale ich
 - ich kann etwas erreichen
@@ -10,7 +10,6 @@ Ziel 0: Das ideale ich
 - ich kann ruhig schlafen
 - Grundbedürfnisse geregelt
 </div>
-<!-- .element: class="fragment fade-in" style="font-size: 1.4em; color: #ff7700; background-color: rgba(37,37,37,0.7)" -->
 
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/team.jpg
@@ -27,6 +26,7 @@ Ziel 0: Das ideale ich
 </div>
 <!-- .element: class="fragment fade-in" style="font-size: 1.4em; color: #ff7700;" -->
 
+<!-- .element: class="fragment fade-in" style="font-size: 1.4em; color: #ff7700; background-color: rgba(37,37,37,0.7)" -->
 
 +++
 <!-- .slide: style="text-align: left; font-size: 0.6em;" -->
