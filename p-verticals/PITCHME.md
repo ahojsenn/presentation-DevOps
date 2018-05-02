@@ -1,5 +1,16 @@
 <!-- .slide: style="text-align: left; font-size: 0.6em;"-->
 
+---?image=ttps://raw.githubusercontent.com/ahojsenn/assets/master/img/maslow.jpg
+# Ziel 0
+# Das ideale ich
+- ich kann etwas erreichen
+- meine Arbeit macht Sinn
+- ich lerne dazu
+- ich kann ruhnig schlafen
+- meine Grundbedürfnisse sind geregelt
+
+<!-- .slide: style="text-align: left; font-size: 0.6em;"-->
+
 # Ziel 1
 # Das ideale Team
 - unabhängig, share nothing (but beer and knowledge)
