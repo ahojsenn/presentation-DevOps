@@ -1,8 +1,9 @@
 
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/maslow.png
-<!-- .slide: data-background="#EBD5D6" style="text-align: left; font-size: 0.6em;" -->
-<div>	Ziel 0: Das ideale ich
+<!-- .slide: tyle="text-align: left; font-size: 0.6em;" -->
+<div>	
+Ziel 0: Das ideale ich
 	- ich kann etwas erreichen
 	- meine Arbeit macht Sinn
 	- ich lerne dazu
