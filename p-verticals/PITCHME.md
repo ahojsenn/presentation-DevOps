@@ -1,6 +1,6 @@
 
 
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/vertikaleKomponenten.png
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/maslow.png
 <!-- .slide: data-background="#EBD5D6" style="text-align: left; font-size: 0.6em;" -->
 # Ziel 0
 # Das ideale ich
@@ -9,7 +9,7 @@
 - ich lerne dazu
 - ich kann ruhnig schlafen
 - meine Grundbedürfnisse sind geregelt
-<!-- .element: class="fragment fade-out" style="font-size: 2em; color: #ff7700;" -->
+<!-- .slide: class="fragment fade-out" style="font-size: 2em; color: #ff7700;" -->
 
 
 +++
