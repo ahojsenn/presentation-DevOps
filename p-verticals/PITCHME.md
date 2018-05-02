@@ -3,14 +3,14 @@
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/maslow.jpg
 <!-- .slide: tyle="text-align: left; font-size: 0.6em;" -->
 <div>	
-Ziel 0: Das ideale ich
+	Ziel 0: Das ideale ich
 	- ich kann etwas erreichen
 	- meine Arbeit macht Sinn
 	- ich lerne dazu
 	- ich kann ruhig schlafen
 	- Grundbedürfnisse geregelt
 </div>
-<!-- .element: class="fragment fade-out" style="font-size: 2em; color: #ff7700;" -->
+<!-- .element: class="fragment fade-in" style="font-size: 2em; color: #ff7700;" -->
 
 
 +++
