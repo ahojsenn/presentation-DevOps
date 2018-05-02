@@ -1,4 +1,5 @@
 .reveal .slides {
+  color: #75efee;
 }
 
 .reveal .slides section>* {
@@ -10,7 +11,7 @@
   padding-left: 20px;
   padding-right: 20px;
   text-align: left;
-  color: #ff7700;
+  color: white;
   font-size: 1em;
   background-color: rgba(37,37,37,0.86);
 }
