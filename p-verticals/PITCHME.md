@@ -1,6 +1,6 @@
 
 
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/maslow.png
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/maslow.jpg
 <!-- .slide: tyle="text-align: left; font-size: 0.6em;" -->
 <div>	
 Ziel 0: Das ideale ich
