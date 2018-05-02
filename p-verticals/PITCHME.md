@@ -71,7 +71,10 @@ vertical teams
 - Spezialisierung im Management: bspw. 4-Dimensionen
 - Restabhängigkeiten werden in diesen
  Dimensionen behandelt (Gilden, CoPs, ...)
-- Die Organsation liefert exzellente Produkte/Services
+- Die Organisation liefert exzellente Produkte/Services
 - Personalverantwortung macht kein Micromanagement
 </div>
 <!-- .element: class="fragment fade-out" -->
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/dreiFragezeichen.jpg
+# noch Fragen zu verticals?
