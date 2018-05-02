@@ -2,7 +2,14 @@
   text-align: left;
   color: red;
 }
+
 .reveal .slides section>* {
   margin-left: 0;
   margin-right: 0;
+}
+
+.reveal .slides .fragment {
+  margin-left: 0;
+  margin-right: 0;
+  color: red;
 }
