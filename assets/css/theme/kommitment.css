@@ -2,10 +2,13 @@
 }
 
 .reveal .slides section>* {
-
+  margin-left: 0;
+  margin-right: 0;
 }
 
 .reveal .slides .fragment {
+  margin-left: 20;
+  margin-right: 20;
   text-align: left;
   color: #ff7700;
   font-size: 1em;
