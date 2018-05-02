@@ -13,12 +13,14 @@ Eigentlich mehrere Teams in einem (Scrum Smell: PO muss alle Spezialisten auslas
 Die meisten Anforderungen müssen von mehreren Schichten bearbeitet werden.  
 Gegenbewegungen: DevOps, Full Stack Developer
 
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_swArchitecture.jpg
++++?image=images/entwicklerwolke_.jpg
 Note:
 Selbst wenn man z.B. ein Team aus Full Stack Devs hat, skaliert das bei großen Aufgaben nicht gut.  
 Kommunikation, Anzahl theoretische Beziehungen, nicht schlagkräftig.  
 Was macht man dann? Mehrere Teams.  
 Und welchen Schnitt wählt man dann?  
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_swArchitecture.jpg
 
 +++?image=images/FirmaReorga01.jpg
 Note:
