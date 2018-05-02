@@ -14,16 +14,16 @@ Ziel 0: Das ideale ich
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/team.jpg
 <div> Ziel 1: Das ideale Team
-	- ist im flow...
-	- kann den Erfolg seiner Arbeit selber beeinflussen
-		- dazu gehört Erfolg messen
-	- wartet ungern auf Zuarbeit
-	- ist flexibel bei Anforderungsänderungen
-	- Das Produkt ist verstehbar
-	- das Team lernt und verbessert sich ständig
-		- fachlich: in seiner Domäne
-		- technisch: in seinem Tech-Stack
-		- methodisch: in seiner Kommunikation
+- ist im flow...
+- kann den Erfolg seiner Arbeit selber beeinflussen
+	- dazu gehört Erfolg messen
+- wartet ungern auf Zuarbeit
+- ist flexibel bei Anforderungsänderungen
+- Das Produkt ist verstehbar
+- das Team lernt und verbessert sich ständig
+	- fachlich: in seiner Domäne
+	- technisch: in seinem Tech-Stack
+	- methodisch: in seiner Kommunikation
 </div>
 <!-- .element: class="fragment fade-in" style="text-align: left; font-size: 1em; color: #ff7700; background-color: rgba(37,37,37,0.86)" -->
 
