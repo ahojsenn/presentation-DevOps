@@ -57,19 +57,19 @@ Vertikale Komponenten, d.h. die teilen sich nix. Schnittstellen über REST. Lose
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/vertikaleTeams.png
 <div>
 vertical teams
-	- Teamaufgaben sind für Laien verständlich
-	- Änderungswünsche sind einfach auf Teams zuzuordnen
-	- fachliche Schnitte entlang der Wertschöpfungskette
+- Teamaufgaben sind für Laien verständlich
+- Änderungswünsche sind einfach auf Teams zuzuordnen
+- fachliche Schnitte entlang der Wertschöpfungskette
     	(entlang von Services, Produkten, der user-journey)
-	- Iterativ und agil --> KVP
+- Iterativ und agil --> KVP
 </div>
 <!-- .element: class="fragment fade-out" -->
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_4D-Organisation.jpg
 4D-Organization
-	- Spezialisierung im Management: bspw. 4-Dimensionen
-	- Restabhängigkeiten werden in diesen
+- Spezialisierung im Management: bspw. 4-Dimensionen
+- Restabhängigkeiten werden in diesen
 	  Dimensionen behandelt (Gilden, CoPs, ...)
-	- Die Organsation liefert exzellente Produkte/Services
-	- Personalverantwortung macht kein Micromanagement
+- Die Organsation liefert exzellente Produkte/Services
+- Personalverantwortung macht kein Micromanagement
 <!-- .element: class="fragment fade-out" -->
