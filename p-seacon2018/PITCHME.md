@@ -27,7 +27,7 @@ Schwierigkeitsgrad: Mittel
 ---?include=p-verticalpattern/PITCHME.md
 
 ---
-# VISION
+# MY VISION
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/vision.jpg
 Note:
