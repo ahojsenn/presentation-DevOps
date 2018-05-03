@@ -7,7 +7,11 @@ body {
   text-align: left;
 }
 
-.reveal .slides h1,h2,h3 {
+.reveal .slides h1 {
+  color: #75efee;
+}
+
+.reveal .slides h2 {
   color: #75efee;
 }
 
