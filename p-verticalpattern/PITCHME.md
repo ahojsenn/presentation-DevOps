@@ -3,7 +3,7 @@
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/handlungspraemissenManager01.png
 <div>
-# MANAGEMENT ZUSAMMENSCHLUSS
+# MANAGEMENT UNION
 Eine Beobachtung für erfolgreichen Change ist ein Zusammenschluss im Management (OTTO, Hanseatic Bank, ...)
 Note:
 Leitplanken:
