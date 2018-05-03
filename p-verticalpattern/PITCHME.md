@@ -4,6 +4,10 @@
 +++
 # MANAGEMENT ZUSAMMENSCHLUSS
 Eine Beobachtung für erfolgreichen Change ist ein Zusammenschluss im Management (OTTO, Hanseatic Bank, ...)
+Note:
+Leitplanken:
+- mit einer Stimme reden
+- Verantwortung wo immer möglich an Experten delegieren
 
 
 +++

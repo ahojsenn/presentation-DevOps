@@ -24,13 +24,7 @@ Schwierigkeitsgrad: Mittel
 
 ---?include=p-verticals/PITCHME.md
 
-
-
-
-
-
-
-
+---?include=p-verticalpattern/PITCHME.md
 
 ---
 # FAZIT
@@ -38,7 +32,6 @@ Schwierigkeitsgrad: Mittel
 +++
 <!-- .slide: style="text-align: left; font-size: 0.6em;"-->
 # Related stuff
-
 - [Ralf Wirdemann, Johannes Mainusch, Scrum mit User Stories, Kapitel 12 "SCRUM@OTTO"](http://www.hanser-fachbuch.de/buch/Scrum+mit+User+Stories/9783446450523)
 - [Dr. John Kotter, Accelerate! The Evolution of the 21st Century Organization](https://www.youtube.com/watch?v=Pc7EVXnF2aI)
 - [Johannes Mainusch, "otto.de – wie die Titanic den Eisberg verfehlte"](https://www.heise.de/developer/artikel/Johannes-Mainusch-otto-de-wie-die-Titanic-den-Eisberg-verfehlte-3491223.html)
