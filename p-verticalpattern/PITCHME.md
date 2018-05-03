@@ -57,6 +57,13 @@ Auswirkung: Brain-Waschmaschine für ein ganzes Unternehmen.
 werden im Portfolio-Kanban gemanagt
 
 
+# LERNEN
+durch selbstreflektion
+- Hanseatic Bank: "disrupt us"
+- OTTO.de: begleitender Management Coach
+- Management Retros, Offsites, Supervision,...
+
+
 +++
 how to start?
 # VISION
