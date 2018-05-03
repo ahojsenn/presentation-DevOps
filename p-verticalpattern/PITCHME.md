@@ -28,6 +28,9 @@ also nur:
 - (Libraries)
 
 
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/oberkiffer.jpg
+# MISTAKES
+
 +++
 # VERTIKALITÄT
 Das vertikale schneiden entlang der Nutzungskette von Services ist ein gutes Muster, um unabhängige Systeme zu definieren. So benutzt man im Unternehmen auch eine allgemein verständliche Sprache.
@@ -58,7 +61,7 @@ werden im Portfolio-Kanban gemanagt
 
 
 # LERNEN
-durch selbstreflektion
+durch Selbstreflektion
 - Hanseatic Bank: "disrupt us"
 - OTTO.de: begleitender Management Coach
 - Management Retros, Offsites, Supervision,...
