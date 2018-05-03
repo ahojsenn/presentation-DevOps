@@ -31,10 +31,17 @@ also nur:
 
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/oberkiffer.jpg
+<div>
 # MISTAKES
+Fehlerkultur heißt eben nicht, Fehler um jeden Preis vermeiden.
+Auch nicht, Fehler nur einmal zu machen...
+Sondern Lernen!
+</div>
 <!-- .element: class="fragment fade-out" -->
-Note: Fehlerkultur heißt eben nicht, Fehler um jeden Preis vermeiden. Auch nicht, Fehler nur einmal zu machen... Sondern Lernen!
-
+Note:
+Fehlerkultur heißt eben nicht, Fehler um jeden Preis vermeiden.
+Auch nicht, Fehler nur einmal zu machen...
+Sondern Lernen!
 
 # LERNEN
 durch Selbstreflektion
