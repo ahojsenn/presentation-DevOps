@@ -27,7 +27,15 @@ Schwierigkeitsgrad: Mittel
 ---?include=p-verticalpattern/PITCHME.md
 
 ---
-# FAZIT
+# VISION
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/vision.jpg
+Note:
+Ich habe gut geschlafen
+und freue mich schon beim Aufstehen
+auf sinnvolles Arbeiten
+mit inspirierenden Kollegen
+Lernen, Spaß und Erfolg!
 
 +++
 <!-- .slide: style="text-align: left; font-size: 0.6em;"-->

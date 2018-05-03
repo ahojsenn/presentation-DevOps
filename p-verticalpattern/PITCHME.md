@@ -53,6 +53,11 @@ Auswirkung: Brain-Waschmaschine für ein ganzes Unternehmen.
 
 
 +++
+# RESTABHÄNGIGKEITEN
+werden im Portfolio-Kanban gemanagt
+
+
++++
 how to start?
 # VISION
 <!-- .element: style="color: orange; "-->
