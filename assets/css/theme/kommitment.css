@@ -4,6 +4,7 @@ body {
 
 .reveal .slides {
   color: white;
+  text-align: left;
 }
 
 .reveal .slides h1 {
