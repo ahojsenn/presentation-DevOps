@@ -1,6 +1,6 @@
 # VERTIKAL
 
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/maslow-inv.jpg
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/maslow.jpg
 <div>
 Ziel 0: Das ideale ich
 - meine Arbeit macht Sinn
@@ -12,7 +12,7 @@ Ziel 0: Das ideale ich
 <!-- .element: class="fragment fade-in" -->
 
 
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/team-inv.jpg
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/team.jpg
 <div> Ziel 1: Das ideale Team
 - ist im flow...
 - kann den Erfolg seiner Arbeit selber beeinflussen
@@ -47,14 +47,14 @@ Frage: Hilft es auch das Chaos in den Griff zu bekommen?
 # HOW
 <!-- .element: style="font-size: 5em; "-->
 
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/vertikaleKomponenten-inv.png
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/vertikaleKomponenten.png
 vertical components
 <!-- .element: class="fragment fade-out" style="font-size: 2em;" -->
 Note:
 Vertikale Komponenten, d.h. die teilen sich nix. Schnittstellen über REST. Lose Kopplung im Frontend über Integration im Frontend (oder in  einem Page-Asseembly-Proxy).
 
 
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/vertikaleTeams-inv.png
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/vertikaleTeams.png
 <div>
 vertical teams
 - Teamaufgaben sind für Laien verständlich
@@ -65,7 +65,7 @@ vertical teams
 </div>
 <!-- .element: class="fragment fade-out" -->
 
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_4D-Organisation-inv.jpg
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_4D-Organisation.jpg
 <div>
 4D-Organization
 - Spezialisierung im Management: bspw. 4-Dimensionen
@@ -76,6 +76,6 @@ vertical teams
 </div>
 <!-- .element: class="fragment fade-out" -->
 
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/dreiFragezeichen-inv.jpg
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/dreiFragezeichen.jpg
 # noch Fragen?
 <!-- .element: style="color: orange; "-->
