@@ -1,18 +1,20 @@
 # PATTERN
 
 
-+++
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/handlungspraemissenManager01.png
+<div>
 # MANAGEMENT ZUSAMMENSCHLUSS
 Eine Beobachtung für erfolgreichen Change ist ein Zusammenschluss im Management (OTTO, Hanseatic Bank, ...)
 Note:
 Leitplanken:
 - mit einer Stimme reden
 - Verantwortung wo immer möglich an Experten delegieren
-
+</div>
+<!-- .element: class="fragment fade-out" -->
 
 +++
 # AGILITÄT
-- X-functionales Arbeiten funktioniert besser
+- X-funktionales Arbeiten funktioniert besser
 - tägliches Stand-up mit Blick auf die Arbeit
 - regelmäßige Retros für die Verbesserung der Arbeit
 
@@ -30,6 +32,16 @@ also nur:
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/oberkiffer.jpg
 # MISTAKES
+<!-- .element: class="fragment fade-out" -->
+Note: Fehlerkultur heißt eben nicht, Fehler um jeden Preis vermeiden. Auch nicht, Fehler nur einmal zu machen... Sondern Lernen!
+
+
+# LERNEN
+durch Selbstreflektion
+- Hanseatic Bank: "disrupt us"
+- OTTO.de: begleitender Management Coach
+- Management Retros, Offsites, Supervision,...
+
 
 +++
 # VERTIKALITÄT
@@ -59,12 +71,6 @@ Auswirkung: Brain-Waschmaschine für ein ganzes Unternehmen.
 # RESTABHÄNGIGKEITEN
 werden im Portfolio-Kanban gemanagt
 
-
-# LERNEN
-durch Selbstreflektion
-- Hanseatic Bank: "disrupt us"
-- OTTO.de: begleitender Management Coach
-- Management Retros, Offsites, Supervision,...
 
 
 +++
