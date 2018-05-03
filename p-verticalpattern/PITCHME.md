@@ -67,12 +67,21 @@ Hier kommen Mitarbeiter aus der klassischen Organisation mit einer Produktidee f
 
 Auswirkung: Brain-Waschmaschine für ein ganzes Unternehmen.
 
+
 +++
 # WIE DENN CHANGEN
 - technisch: Aufteilung der Datenhoheiten
 - organisatorisch: X-funktionales Change Team
 - Start pluralisch (nicht monolithisch)
 
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/peopleAreGold.png
+<div>
+# FIX HIRING
+## 2030 raus:rein = 2:1
+für jeden neuen Mitarbeiter gehen zwei in Rente!
+</div>
+<!-- .element: class="fragment fade-out" -->
 
 +++
 # RESTABHÄNGIGKEITEN
