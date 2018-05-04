@@ -17,7 +17,8 @@ Ziel 0: Das ideale ich
 - ist im flow...
 - kann den Erfolg seiner Arbeit selber beeinflussen
 	- dazu gehört Erfolg messen
-- wartet ungern auf Zuarbeit
+	- Arbeitsmittel sind im Team
+- wartet ungern auf Zuarbeit (shared nothing)
 - ist flexibel bei Anforderungsänderungen
 - Das Produkt ist verstehbar
 - das Team lernt und verbessert sich ständig
@@ -27,7 +28,7 @@ Ziel 0: Das ideale ich
 </div>
 <!-- .element: class="fragment fade-in" -->
 
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/orga01.png
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/orga01.jpg
 <div>
 Ziel 2: Die ideale (change) Organisationen
 - besteht aus eigenverantwortlichen unabhängigen Teams (shared nothing)
@@ -35,6 +36,7 @@ Ziel 2: Die ideale (change) Organisationen
 - ist effizient / kann gut skalieren
 - Die Organisation liefert exzellente Produkte/Services obwohl diese verteilt entstehen
 - ist innovativ/effektiv
+- lernt
 </div>
 <!-- .element: class="fragment fade-in" -->
 
@@ -48,7 +50,10 @@ Frage: Hilft es auch das Chaos in den Griff zu bekommen?
 <!-- .element: style="font-size: 5em; "-->
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/vertikaleKomponenten.png
-vertical components
+<div>
+# vertical components
+Vertikale Komponenten, d.h. die teilen sich nix. Schnittstellen über REST. Lose Kopplung im Frontend über Integration im Frontend (oder in  einem Page-Asseembly-Proxy).
+</div>
 <!-- .element: class="fragment fade-out" style="font-size: 2em;" -->
 Note:
 Vertikale Komponenten, d.h. die teilen sich nix. Schnittstellen über REST. Lose Kopplung im Frontend über Integration im Frontend (oder in  einem Page-Asseembly-Proxy).
@@ -56,7 +61,7 @@ Vertikale Komponenten, d.h. die teilen sich nix. Schnittstellen über REST. Lose
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/vertikaleTeams.png
 <div>
-vertical teams
+# vertical teams
 - Teamaufgaben sind für Laien verständlich
 - Änderungswünsche sind einfach auf Teams zuzuordnen
 - fachliche Schnitte entlang der Wertschöpfungskette
