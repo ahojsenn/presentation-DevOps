@@ -28,12 +28,8 @@ Wenn man Teams horizontal nach Aufgabe schneidet (Frontend-Backend-Split), berü
 
 
 +++
-<div>
 # CHAOS
-<iframe scrolling="auto" src="https://beta.observablehq.com/@ahojsenn/chaos-example"> </iframe>
-
-
-</div>
+<iframe scrolling="auto" src="https://beta.observablehq.com/@ahojsenn/chaos-example"></iframe>
 
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/FirmaReorga02.jpg
