@@ -26,6 +26,16 @@ Und welchen Schnitt wählt man dann?
 Note:
 Wenn man Teams horizontal nach Aufgabe schneidet (Frontend-Backend-Split), berührt fast jede Anforderung alle Schichten.
 
+
++++
+<div>
+# CHAOS
+<iframe scrolling="auto" src="https://beta.observablehq.com/@ahojsenn/chaos-example" style="width:100%;height:90%)"> </iframe>
+
+
+</div>
+
+
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/FirmaReorga02.jpg
 Note:
 Stattdessen nutzen wir den Vorteil wie bei Full Stack Devs, schneiden vertikal.  
