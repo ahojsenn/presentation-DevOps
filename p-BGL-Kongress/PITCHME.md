@@ -1,7 +1,7 @@
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
-# Vertikale Organisation
+# Agiles Management
 <!-- .element: style="font-size: 3em; color: orange"-->
-da muss sich was um 90° drehen im Kopf!
+[Über]leben im Chaos
 <!-- .element: style="font-size: 2em; color: orange"-->
 
 +++

@@ -7,6 +7,15 @@ da muss sich was um 90° drehen im Kopf!
 +++?image=images/profilbild.jpg&size=auto 90%
 +++?image=images/johannes-mainusch.jpg&size=auto 90%
 
+
+
+
+
+
+
+
+
+
 ---?image=images/zebra.png&size=auto 90%
 Note:
 Querstreifen machen dick. Und wenn man viel zu dick ist, wird man langsam und träge.
