@@ -5,9 +5,8 @@
 <!-- .element: style="font-size: 2em; color: orange"-->
 
 +++
-Titel: Agiles Management - [Über]leben im Chaos
-
 Abstract:
+<div>
 Die äußeren Rahmenbedingungen in der Wirtschaft ändern sich immer schneller, währen wir im Inneren unserer Firmen alte feste Stukturen
 und schwer verständliche Systeme betreiben. Also keine Zeit zum Ausruhen, keine Zeit für Behäbigkeit. Albert Einstein sagte:
 "Die reinste Form des Wahnsinns ist es, alles beim Alten zu lassen und gleichzeitig zu hoffen, dass sich etwas ändert."
@@ -25,8 +24,8 @@ Der Druck:
 - Mauern abbauen - Firmen X-Change
 
 Nur wenn wir auch in Zukunft einen Wert für Menschen schaffen, werden wir überleben!
-
-
+</div>
+<!-- .element: class="fragment fade-out" style="font-size: 0.5em; "-->
 
 
 
