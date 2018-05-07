@@ -1,8 +1,10 @@
-# presentation-DevOps
-Johannes & Ole bashen sich auf der Bühne zum Thema DevOps. Hier die Folien zum Vortrag...
+# presentations
+Johannes Mainusch
 
 # to view the presentation
-open [https://gitpitch.com/ahojsenn/presentation-DevOps/master?grs=github](https://gitpitch.com/ahojsenn/presentation-DevOps/master?grs=github)
+- [BGL-Kongress 2018](https://gitpitch.com/ahojsenn/presentation-DevOps/master?p=p-p-BGL-Kongress)
+- [sea-con2018:](https://www.sea-con.de/seacon2018.html?gclid=EAIaIQobChMI5OvP6-jT2gIVYTPTCh0I_gzIEAAYASAAEgKTdfD_BwE)
+- [DEVOPS:](https://gitpitch.com/ahojsenn/presentation-DevOps/master?grs=github)
 
 # Web & Video
 - [https://www.meetup.com/en-AU/devops-stuttgart/events/241911259/?_cookie-check=R5MZkSfYwPfkL10e](https://www.meetup.com/en-AU/devops-stuttgart/events/241911259/?_cookie-check=R5MZkSfYwPfkL10e)
@@ -10,9 +12,9 @@ open [https://gitpitch.com/ahojsenn/presentation-DevOps/master?grs=github](https
 
 # Authors
 - Johannes Mainusch, #docjoe
-- Ole Langbehn
+- Ole Langbehn (for the DevOps presentation)
 
 
 # License
 CC BY-SA
-[https://creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativecommons.org/licenses/by-sa/4.0/legalcode) 
+[https://creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
