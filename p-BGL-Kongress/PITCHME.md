@@ -62,8 +62,7 @@ Note: 2030 wird auf zwei Rentner nur eine neue Arbeitskraft in die Firma eintret
 <!-- .element: class="fragment fade-in"-->
 Note: Im Jahresbericht 2016/1017 von Thyssenkrupp wird dem Thema Personal kein besonderer strategischer Fokus gegeben, auch kein Fokus im Risikobericht...
 
-+++
-<iframe src="https://beta.observablehq.com/@ahojsenn/chaos-example">hi</iframe>
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/chaos02.jpg
 <div>
 # CHAOS
 [https://beta.observablehq.com/@ahojsenn/chaos-example](https://beta.observablehq.com/@ahojsenn/chaos-example
