@@ -70,10 +70,23 @@ Note: Im Jahresbericht 2016/1017 von Thyssenkrupp wird dem Thema Personal kein b
 </div>
 <!-- .element: class="fragment fade-in" -->
 
++++https://raw.githubusercontent.com/ahojsenn/assets/master/img/_teams01.jpg
+<div>
+# Agil
+ist eine Antwort auf Chaos.
+- kleine Schritte
+- cross-funktionales Arbeiten
+- pull statt push
+- inspect & adapt
+- Experten entscheiden
+</div>
+<!-- .element: class="fragment fade-in" -->
+
 
 +++
 <div>
 # Innovation? Digitalisierung?
+
 </div>
 <!-- .element: class="fragment fade-in" style="font-size: 0.5em; "-->
 
