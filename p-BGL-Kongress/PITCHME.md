@@ -38,29 +38,29 @@ Nur wenn wir auch in Zukunft einen Wert für Menschen schaffen, werden wir über
 # Der Druck
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_swArchitecture.jpg
-Note: Ausschnitt aus der IT-Landkarte eines großen Logistik-Unternehmens im Jahr 1999.
 <div>
 # Legacy IT --> als Risiko behandeln
 </div>
 <!-- .element: class="fragment fade-in" style="font-size: 0.5em; "-->
+Note: Ausschnitt aus der IT-Landkarte eines großen Logistik-Unternehmens im Jahr 1999.
 
 
 
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/peopleAreGold.png
-Note: 2030 wird auf zwei Rentner nur eine neue Arbeitskraft in die Firma eintreten.
 <div>
 # mit weniger Personal mehr machen
 </div>
 <!-- .element: class="fragment fade-in" style="font-size: 0.5em; "-->
+Note: 2030 wird auf zwei Rentner nur eine neue Arbeitskraft in die Firma eintreten.
 
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/SAPvsThyssen.png
-Note: Im Jahresbericht 2016/1017 von Thyssenkrupp wird dem Thema Personal kein besonderer strategischer Fokus gegeben, auch kein Fokus im Risikobericht...
 <div>
 # Personal --> strategisches Unternehmensziel
 </div>
 <!-- .element: class="fragment fade-in" style="font-size: 0.5em; "-->
+Note: Im Jahresbericht 2016/1017 von Thyssenkrupp wird dem Thema Personal kein besonderer strategischer Fokus gegeben, auch kein Fokus im Risikobericht...
 
 +++
 # CHAOS
