@@ -25,14 +25,13 @@ Der Druck:
 
 Nur wenn wir auch in Zukunft einen Wert für Menschen schaffen, werden wir überleben!
 </div>
-<!-- .element: class="fragment fade-out" style="font-size: 0.5em; "-->
 
 +++
 # Agiles Management
-... ist die Kunst, Lernen so wenig teuer wie möglich zu machen.
-... ist die Fähigkeit, lose gekoppelte Teams zum Erfolg zu bringen.
-... Abhängigkeiten drastisch zu reduzieren
-... ist cross-funktionales Arbeiten in einem Management-Team
+- ist die Kunst, Lernen so wenig teuer wie möglich zu machen.
+- ist die Fähigkeit, lose gekoppelte Teams zum Erfolg zu bringen.
+- Abhängigkeiten drastisch zu reduzieren
+- ist cross-funktionales Arbeiten in einem Management-Team
 
 
 ---
@@ -40,27 +39,39 @@ Nur wenn wir auch in Zukunft einen Wert für Menschen schaffen, werden wir über
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_swArchitecture.jpg
 Note: Ausschnitt aus der IT-Landkarte eines großen Logistik-Unternehmens im Jahr 1999.
+<div>
+# Legacy IT --> als Risiko behandeln
+</div>
+<!-- .element: class="fragment fade-in" style="font-size: 0.5em; "-->
+
+
+
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/peopleAreGold.png
 Note: 2030 wird auf zwei Rentner nur eine neue Arbeitskraft in die Firma eintreten.
-
-+++
-# IT --> als Risiko behandeln
+<div>
+# mit weniger Personal mehr machen
+</div>
+<!-- .element: class="fragment fade-in" style="font-size: 0.5em; "-->
 
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/SAPvsThyssen.png
 Note: Im Jahresbericht 2016/1017 von Thyssenkrupp wird dem Thema Personal kein besonderer strategischer Fokus gegeben, auch kein Fokus im Risikobericht...
-
-+++
+<div>
 # Personal --> strategisches Unternehmensziel
+</div>
+<!-- .element: class="fragment fade-in" style="font-size: 0.5em; "-->
 
 +++
 # CHAOS
 [https://beta.observablehq.com/@ahojsenn/chaos-example](https://beta.observablehq.com/@ahojsenn/chaos-example
 )
 
-
-
++++
+<div>
+# Innovation? Digitalisierung?
+</div>
+<!-- .element: class="fragment fade-in" style="font-size: 0.5em; "-->
 
 
 
