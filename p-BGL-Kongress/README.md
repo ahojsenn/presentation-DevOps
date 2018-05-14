@@ -1,15 +1,14 @@
 # Agiles Management - [Über]leben im Chaos
 
 Abstract:
-Die äußeren Rahmenbedingungen in der Wirtschaft ändern sich immer schneller, währen wir im Inneren unserer Firmen alte feste Stukturen
-und schwer verständliche Systeme betreiben. Also keine Zeit zum Ausruhen, keine Zeit für Behäbigkeit. Albert Einstein sagte:
+Die äußeren Rahmenbedingungen in der Wirtschaft ändern sich immer schneller, währen wir im Inneren unserer Firmen alte feste Strukturen und schwer verständliche Systeme betreiben. Also keine Zeit zum Ausruhen, keine Zeit für Behäbigkeit. Albert Einstein sagte:
 "Die reinste Form des Wahnsinns ist es, alles beim Alten zu lassen und gleichzeitig zu hoffen, dass sich etwas ändert."
 
 Der Druck:
-- [IT | Organisations]-Legacy - alte Systme ziehen uns runter!
+- [IT | Organisations]-Legacy - alte Systeme ziehen uns runter!
 - Demografie - wer arbeitet da morgen eigentlich noch?
-- Personal - Recruiting muss strategisches Ziel im Unternehmen Stablinienorganisation sein!
-- wertschöpfende Produkte - was wäre innovativ und erfolgsversprchend?
+- Personal - Recruiting muss strategisches Ziel im Unternehmen Stab-Linienorganisation sein!
+- wertschöpfende Produkte - was wäre innovativ und erfolgversprechend?
 
 [Über]lebenshilfen:
 - Agilität und Agiles Management
