@@ -32,7 +32,8 @@ Nur wenn wir auch in Zukunft einen Wert für Menschen schaffen, werden wir über
 - ist die Fähigkeit, lose gekoppelte Teams zum Erfolg zu bringen.
 - Abhängigkeiten drastisch zu reduzieren
 - ist cross-funktionales Arbeiten in einem Management-Team
-
+</div>
+<!-- .element: class="fragment fade-in" style="font-size:0.5em"-->
 
 ---
 # Der Druck
