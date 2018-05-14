@@ -39,7 +39,7 @@ Nur wenn wir auch in Zukunft einen Wert für Menschen schaffen, werden wir über
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_swArchitecture.jpg
 <div>
-# Legacy IT --> als Risiko behandeln
+# Legacy IT &#8658; als Risiko behandeln
 </div>
 <!-- .element: class="fragment fade-in" -->
 Note: Ausschnitt aus der IT-Landkarte eines großen Logistik-Unternehmens im Jahr 1999.
@@ -57,7 +57,7 @@ Note: 2030 wird auf zwei Rentner nur eine neue Arbeitskraft in die Firma eintret
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/SAPvsThyssen2016.png
 <div>
-# Personal --> strategisches Unternehmensziel
+# Personal &#8658; strategisches Ziel im Unternehmen
 </div>
 <!-- .element: class="fragment fade-in"-->
 Note: Im Jahresbericht 2016/1017 von Thyssenkrupp wird dem Thema Personal kein besonderer strategischer Fokus gegeben, auch kein Fokus im Risikobericht...
