@@ -25,16 +25,18 @@ Der Druck:
 
 Nur wenn wir auch in Zukunft einen Wert für Menschen schaffen, werden wir überleben!
 </div>
+<!-- .element: class="fragment fade-in" style="font-size:0.5em"-->
 
-+++
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/theManager03.png
 <div>
 # Agiles Management
 - ist die Kunst, Lernen so wenig teuer wie möglich zu machen.
-- ist die Fähigkeit, lose gekoppelte Teams zum Erfolg zu bringen.
 - Abhängigkeiten drastisch zu reduzieren
+- ist die Fähigkeit, lose gekoppelte Teams zum Erfolg zu bringen.
 - ist cross-funktionales Arbeiten in einem Management-Team
 </div>
-<!-- .element: class="fragment fade-in" style="font-size:0.5em"-->
+<!-- .element: class="fragment fade-in" -->
+
 
 ---
 # Der Druck
@@ -74,7 +76,7 @@ Note: Im Jahresbericht 2016/1017 von Thyssenkrupp wird dem Thema Personal kein b
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_teams01.jpg
 <div>
-# Agil
+# Agiles Team
 ist eine Antwort auf Chaos.
 - kleine Schritte
 - cross-funktionales Arbeiten
