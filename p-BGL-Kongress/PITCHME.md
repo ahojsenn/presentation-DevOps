@@ -27,6 +27,13 @@ Nur wenn wir auch in Zukunft einen Wert für Menschen schaffen, werden wir über
 </div>
 <!-- .element:  style="font-size:0.5em"-->
 
++++?image=images/johannes-mainusch.jpg&size=auto 90%
+<div>
+Ich bin Johannes Mainusch. Oft halte ich Vorträge vor IT-Managern oder Entwicklern zum Thema moderne IT-Produktentwicklung und Flow im Team. Mit diesem Vortrag wende ich mich an IT-Muggles. Ich versuche ihn zu halten, dass ich trotzdem den Wunsch auf dringende benötigte Veränderung, das Ausrichten auf Chaos, den Spaß an cross-funktionaler Zusammenarbeit und den Erfolg, fast unmöglich  Erklärbares in coole Produkte zu formen rüber bringen kann.
+Um Strukturen zu verdeutlichen, verwende ich gern die Stilmittel der Überzeichnung und der Satire. Ich beabsichtige damit keinesfalls, Zuhörer zu brüskieren oder zu verletzen. Inspiration ist mein Ziel.
+</div>
+<!-- .element: class="fragment fade-in" style="font-size:0.5em" -->
+
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/theManager03.png
 <div>
 # Agiles Management
@@ -110,7 +117,7 @@ ist eine Antwort auf Chaos.
  fail early, fail fast, fail often.
 
 
-+++?image=images/johannes-mainusch.jpg&size=auto 90%
+
 
 
 
