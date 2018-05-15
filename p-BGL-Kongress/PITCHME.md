@@ -25,7 +25,7 @@ Der Druck:
 
 Nur wenn wir auch in Zukunft einen Wert für Menschen schaffen, werden wir überleben!
 </div>
-<!-- .element: class="fragment fade-in" style="font-size:0.5em"-->
+<!-- .element:  style="font-size:0.5em"-->
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/theManager03.png
 <div>
@@ -36,14 +36,14 @@ Nur wenn wir auch in Zukunft einen Wert für Menschen schaffen, werden wir über
 - Teamgeist: cross-funktionales Arbeiten im Management
 - sich überflüssig machen
 </div>
-<!-- .element: class="fragment fade-in" -->
+<!-- .element: class="fragment fade-in" style="font-size:0.5em" -->
 
 
 ---
 # Der Druck
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_swArchitecture.jpg
 <div>
-# Legacy IT &#8658; als Risiko behandeln
+# Risiko: <br>Legacy IT
 </div>
 <!-- .element: class="fragment fade-in" -->
 Note: Ausschnitt aus der IT-Landkarte eines großen Logistik-Unternehmens im Jahr 1999.
@@ -53,7 +53,7 @@ Note: Ausschnitt aus der IT-Landkarte eines großen Logistik-Unternehmens im Jah
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/peopleAreGold.png
 <div>
-# weniger Personal muss mehr schaffen
+# weniger Personal <br>muss <br>mehr schaffen
 </div>
 <!-- .element: class="fragment fade-in" -->
 Note: 2030 wird auf zwei Rentner nur eine neue Arbeitskraft in die Firma eintreten.
@@ -61,7 +61,7 @@ Note: 2030 wird auf zwei Rentner nur eine neue Arbeitskraft in die Firma eintret
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/SAPvsThyssen2016.png
 <div>
-# Personal &#8658; strategisches Ziel im Unternehmen
+# Personal &#8658; fehlt in den strategisches Zielen
 </div>
 <!-- .element: class="fragment fade-in"-->
 Note: Im Jahresbericht 2016/1017 von Thyssenkrupp wird dem Thema Personal kein besonderer strategischer Fokus gegeben, auch kein Fokus im Risikobericht...
@@ -74,18 +74,16 @@ Note: Im Jahresbericht 2016/1017 von Thyssenkrupp wird dem Thema Personal kein b
 </div>
 <!-- .element: class="fragment fade-in" -->
 
-+++
-<div>
-# Digitalisierung
-</div>
-<!-- .element: class="fragment fade-in" style="font-size: 0.5em; "-->
-Note: Digitalisierung bedeutet, von der IT-Produktentwicklung lernen. Agile Terams Aufbauen, eine Agile Organisationsstruktur aufbauen, Kultur ändern.
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/digitalisierung.jpg
+# Digitalisierung?
+<!-- .element: class="fragment fade-in"-->
+Note: Digitalisierung bedeutet, von der IT-Produktentwicklung lernen. Agile Teams aufbauen, eine agile Organisationsstruktur aufbauen, Kultur ändern.
 
-+++
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/innovation.jpg
 <div>
-# Innovation
+# Innovation?
 </div>
-<!-- .element: class="fragment fade-in" style="font-size: 0.5em; "-->
+<!-- .element: class="fragment fade-in" "-->
 Note: Innovation ist noch einmal etwas ganz Anderes. Aber sind die anderen Schritte einmal gemacht, wird es mit der innovation auch einfacher...
 
 ---
