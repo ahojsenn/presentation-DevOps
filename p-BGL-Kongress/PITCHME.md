@@ -76,14 +76,12 @@ Note: Im Jahresbericht 2016/1017 von Thyssenkrupp wird dem Thema Personal kein b
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/digitalisierung.jpg
 # Digitalisierung?
-<!-- .element: class="fragment fade-in" style="font-size: 2.8em; color: orange"-->
+<!-- .element:  style="font-size: 2.5em; color: #72f34b"-->
 Note: Digitalisierung bedeutet, von der IT-Produktentwicklung lernen. Agile Teams aufbauen, eine agile Organisationsstruktur aufbauen, Kultur ändern.
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/innovation.jpg
-<div>
 # Innovation?
-</div>
-<!-- .element: class="fragment fade-in" style="font-size: 3em; -->
+<!-- .element:  style="font-size: 3em; -->
 Note: Innovation ist noch einmal etwas ganz Anderes. Aber sind die anderen Schritte einmal gemacht, wird es mit der innovation auch einfacher...
 
 ---
