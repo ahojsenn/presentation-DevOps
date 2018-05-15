@@ -106,13 +106,14 @@ Wenn das mit Effizienzmaßnahmen möglich wäre
 hätten Sie es schon längst getan!
 <!-- .element: class="fragment fade-in" -->
 
-+++
-"Die reinste Form des Wahnsinns ist es, alles beim Alten zu lassen und gleichzeitig zu hoffen, dass sich etwas ändert."
-A. Einstein
+
 
 
 ---
-# [Über]lebenshilfen  
+# [Über]<br>lebenshilfen  
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/FirmaReorga02.jpg
+
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_teams01.jpg
 <div>
@@ -127,11 +128,16 @@ ist eine Antwort auf Chaos.
 <!-- .element: class="fragment fade-in" -->
 
 
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/che.jpg
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/che.png
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/change.jpg
 # Crazy?
+<!-- .element: class="fragment fade-in" -->
 
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/change03.jpg
+# Kulturveränderung
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/change04.jpg
 
 +++
 # Fail
@@ -146,7 +152,15 @@ Hanseatic Bank 2016
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/testimonial-MB.png
 
+---
+# Erfolge
 
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/product03.png
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/product09.png
+<div>
+</div>
+<!-- .element: class="fragment fade-in" -->
 
 ---
 # MY VISION
