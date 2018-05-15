@@ -32,7 +32,8 @@ Nur wenn wir auch in Zukunft einen Wert für Menschen schaffen, werden wir über
 Ich bin Johannes Mainusch. Oft halte ich Vorträge vor IT-Managern oder Entwicklern zum Thema moderne IT-Produktentwicklung und Flow im Team. Mit diesem Vortrag wende ich mich an IT-Muggles. Ich versuche ihn zu halten, dass ich trotzdem den Wunsch auf dringende benötigte Veränderung, das Ausrichten auf Chaos, den Spaß an cross-funktionaler Zusammenarbeit und den Erfolg, fast unmöglich  Erklärbares in coole Produkte zu formen rüber bringen kann.
 Um Strukturen zu verdeutlichen, verwende ich gern die Stilmittel der Überzeichnung und der Satire. Ich beabsichtige damit keinesfalls, Zuhörer zu brüskieren oder zu verletzen. Inspiration ist mein Ziel.
 </div>
-<!-- .element: class="fragment fade-in" style="font-size:0.5em" -->
+<!-- .element: class="fragment fade-in" style="font-size:0.5em; position: absolute;
+top: 400px;" -->
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/theManager03.png
 <div>
@@ -43,8 +44,7 @@ Um Strukturen zu verdeutlichen, verwende ich gern die Stilmittel der Überzeichn
 - Teamgeist: cross-funktionales Arbeiten im Management
 - sich überflüssig machen
 </div>
-<!-- .element: class="fragment fade-in" style="font-size:0.5em; position: absolute;
-top: 400px;" -->
+<!-- .element: class="fragment fade-in" style="font-size:0.4em; " -->
 
 
 ---
