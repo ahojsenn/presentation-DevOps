@@ -136,6 +136,7 @@ ist eine Antwort auf Chaos.
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/change03.png
 # Kultur<br>veränderung
+<!-- .element: style="color: #b75d38 -->
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/change04.png
 
@@ -146,10 +147,6 @@ ist eine Antwort auf Chaos.
 
 
 
-+++
-# Disrupt Us!
-Hanseatic Bank 2016
-
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/testimonial-MB.png
 
 ---
@@ -159,8 +156,23 @@ Hanseatic Bank 2016
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/product09.png
 <div>
+- 2000: alle 5 Monate ein Hauptkatalog
+- 2012: alle 2 Wochen ein "Deployment"
+- 2017: 600 Deployments pro Woche
 </div>
 <!-- .element: class="fragment fade-in" -->
+
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/hanseaticbankGB2016.png
+# Disrupt Us!
+<!-- .element: class="fragment fade-in" -->
+
++++
+#Solution Lab
+Ideen von Kollegen werden
+4 Wochen Vollzeit im co-workong space
+ausprobiert
+
 
 ---
 # MY VISION
