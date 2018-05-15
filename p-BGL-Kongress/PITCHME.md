@@ -81,7 +81,7 @@ Note: Digitalisierung bedeutet, von der IT-Produktentwicklung lernen. Agile Team
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/innovation.jpg
 # Innovation?
-<!-- .element:  style="font-size: 3em; -->
+<!-- .element:  style="font-size: 4.5em; -->
 Note: Innovation ist noch einmal etwas ganz Anderes. Aber sind die anderen Schritte einmal gemacht, wird es mit der innovation auch einfacher...
 
 ---
