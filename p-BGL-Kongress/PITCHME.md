@@ -134,10 +134,10 @@ ist eine Antwort auf Chaos.
 # Crazy?
 <!-- .element: class="fragment fade-in" -->
 
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/change03.jpg
-# Kulturveränderung
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/change03.png
+# Kultur<br>veränderung
 
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/change04.jpg
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/change04.png
 
 +++
 # Fail
