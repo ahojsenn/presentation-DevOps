@@ -83,7 +83,7 @@ Note: Digitalisierung bedeutet, von der IT-Produktentwicklung lernen. Agile Team
 <div>
 # Innovation?
 </div>
-<!-- .element: class="fragment fade-in" style="font-size: 3em; -->
+<!-- .element: class="fragment fade-in" style="font-size: 2,8em; -->
 Note: Innovation ist noch einmal etwas ganz Anderes. Aber sind die anderen Schritte einmal gemacht, wird es mit der innovation auch einfacher...
 
 ---
