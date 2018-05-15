@@ -211,7 +211,8 @@ Lernen, Spaß und Erfolg!
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/MP3-Team_1987.jpg
 # Innovation works!
-<!-- .element: style="font-size: 3em; color: orange"-->
+<!-- .element: style="font-size: 3em; color: red"-->
+[Interview mit Karlheinz Brandenburg](https://www.kommitment.biz/fileadmin/media/presentations/mainusch_OS_03_17_-_karl-heinz_brandenburg_-_mp3_freeware.pdf)
 
 
 +++
