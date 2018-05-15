@@ -157,6 +157,8 @@ statt Sandkastenkriege
 
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/team.png
 # Erfolge
+<!-- .element: style="color: red; font-size: 3em" -->
+
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/product03.png
 
