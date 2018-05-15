@@ -182,7 +182,7 @@ räumliche Verteilung von Expertenteams. Bsp. Breuninger, XING Barcelona, ...
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/hanseaticbankGB2016.png
 # Disrupt Us!
-<!-- .element: class="fragment fade-in" style="font-size: 6em; color: red;" -->
+<!-- .element: class="fragment fade-in" style="font-size: 5em; color: red;" -->
 
 +++
 #Solution Lab
@@ -207,6 +207,12 @@ und freue mich schon beim Aufstehen
 auf sinnvolles Arbeiten
 mit inspirierenden Kollegen
 Lernen, Spaß und Erfolg!
+
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/MP3-Team_1987.jpg
+# Innovation works!
+<!-- .element: style="font-size: 3em; color: orange"-->
+
 
 +++
 <!-- .slide: style="text-align: left; font-size: 0.6em;"-->
