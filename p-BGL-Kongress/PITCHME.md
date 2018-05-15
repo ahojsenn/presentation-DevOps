@@ -140,16 +140,22 @@ ist eine Antwort auf Chaos.
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/change04.png
 
-+++
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/oberkiffer.jpg
+<div>
 # Fail
- fail early, fail fast, fail often.
+fail early, fail fast, fail often!
+</div>
+<!-- .element: class="fragment fade-in" -->
 
-
++++
+# Management Collaboration
+statt Sandkastenkriege
 
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/testimonial-MB.png
 
----
+---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/team.png
 # Erfolge
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/product03.png
@@ -160,18 +166,31 @@ ist eine Antwort auf Chaos.
 - 2012: alle 2 Wochen ein "Deployment"
 - 2017: 600 Deployments pro Woche
 </div>
-<!-- .element: class="fragment fade-in" -->
+<!-- .element: class="fragment fade-in" style="font-size:2em; "-->
 
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/vertikaleTeams-inv.png
+<div>
+# Vertikalisierung
+räumliche Verteilung von Expertenteams. Bsp. Breuninger, XING Barcelona, ...
+</div>
+<!-- .element: class="fragment fade-in" -->
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/hanseaticbankGB2016.png
 # Disrupt Us!
-<!-- .element: class="fragment fade-in" -->
+<!-- .element: class="fragment fade-in" style="font-size:2em; -->
 
 +++
 #Solution Lab
 Ideen von Kollegen werden
-4 Wochen Vollzeit im co-workong space
+4 Wochen Vollzeit im [co-workong space](https://www.mindspace.me/hamburg/)
 ausprobiert
+
++++
+# Raum schaffen
+Freiraum, die Tapete wechseln, Spielraum, hier fällt mir die Decke auf den Kopf, Wände einreißen, Tag der offenen Tür, aus der Box denken...
+
+
 
 
 ---
