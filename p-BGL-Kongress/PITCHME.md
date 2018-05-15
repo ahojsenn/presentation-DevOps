@@ -32,8 +32,7 @@ Nur wenn wir auch in Zukunft einen Wert für Menschen schaffen, werden wir über
 Ich bin Johannes Mainusch. Oft halte ich Vorträge vor IT-Managern oder Entwicklern zum Thema moderne IT-Produktentwicklung und Flow im Team. Mit diesem Vortrag wende ich mich an IT-Muggles. Ich versuche ihn zu halten, dass ich trotzdem den Wunsch auf dringende benötigte Veränderung, das Ausrichten auf Chaos, den Spaß an cross-funktionaler Zusammenarbeit und den Erfolg, fast unmöglich  Erklärbares in coole Produkte zu formen rüber bringen kann.
 Um Strukturen zu verdeutlichen, verwende ich gern die Stilmittel der Überzeichnung und der Satire. Ich beabsichtige damit keinesfalls, Zuhörer zu brüskieren oder zu verletzen. Inspiration ist mein Ziel.
 </div>
-<!-- .element: class="fragment fade-in" style="font-size:0.5em; position: absolute;
-top: 400px;" -->
+<!-- .element: class="fragment fade-in" style="font-size: 0.4em; position: absolute; top: 400px;" -->
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/theManager03.png
 <div>
@@ -49,6 +48,18 @@ top: 400px;" -->
 
 ---
 # Der Druck
+
++++?image=images/FirmaReorga01.jpg
+Note: Wir haben gelernt, Unternehmen in Schichten von Abstraktion aufzubauen. "One Face to the customer" oder "Frontendit vs. Backend-IT".
+
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/conwayWolter.png
+Note: From Wikipedia, the free encyclopedia
+Conway's law is an adage named after computer programmer Melvin Conway, who introduced the idea in 1967.[1] It states that
+"organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations."
+
+— M. Conway[2]
+
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_swArchitecture.jpg
 <div>
 # Risiko: <br>Legacy IT
@@ -75,12 +86,9 @@ Note: 2030 wird auf zwei Rentner nur eine neue Arbeitskraft in die Firma eintret
 Note: Im Jahresbericht 2016/1017 von Thyssenkrupp wird dem Thema Personal kein besonderer strategischer Fokus gegeben, auch kein Fokus im Risikobericht...
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/chaos02.jpg
-<div>
 # Auf Chaos vorbereiten
 [https://beta.observablehq.com/@ahojsenn/chaos-example](https://beta.observablehq.com/@ahojsenn/chaos-example
 )
-</div>
-<!-- .element: class="fragment fade-in" -->
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/digitalisierung.jpg
 # Digitalisierung?
@@ -92,9 +100,13 @@ Note: Digitalisierung bedeutet, von der IT-Produktentwicklung lernen. Agile Team
 <!-- .element:  style="font-size: 4.5em; -->
 Note: Innovation ist noch einmal etwas ganz Anderes. Aber sind die anderen Schritte einmal gemacht, wird es mit der innovation auch einfacher...
 
+
+
+
+
+
 ---
 # [Über]lebenshilfen  
-
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_teams01.jpg
 <div>
@@ -109,8 +121,10 @@ ist eine Antwort auf Chaos.
 <!-- .element: class="fragment fade-in" -->
 
 
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/che.jpg
 
-
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/change.jpg
+# Crazy?
 
 
 +++
