@@ -168,7 +168,7 @@ statt Sandkastenkriege
 - 2012: alle 2 Wochen ein "Deployment"
 - 2017: 600 Deployments pro Woche
 </div>
-<!-- .element: class="fragment fade-in" style="font-size:2em; "-->
+<!-- .element: class="fragment fade-in" style="font-size:1.5em; "-->
 
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/vertikaleTeams-inv.png
@@ -180,7 +180,7 @@ räumliche Verteilung von Expertenteams. Bsp. Breuninger, XING Barcelona, ...
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/hanseaticbankGB2016.png
 # Disrupt Us!
-<!-- .element: class="fragment fade-in" style="font-size:2em; -->
+<!-- .element: class="fragment fade-in" style="font-size: 2.5em; color: red;" -->
 
 +++
 #Solution Lab
