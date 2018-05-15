@@ -43,7 +43,8 @@ Um Strukturen zu verdeutlichen, verwende ich gern die Stilmittel der Überzeichn
 - Teamgeist: cross-funktionales Arbeiten im Management
 - sich überflüssig machen
 </div>
-<!-- .element: class="fragment fade-in" style="font-size:0.5em" -->
+<!-- .element: class="fragment fade-in" style="font-size:0.5em; position: absolute;
+top: 400px;" -->
 
 
 ---
