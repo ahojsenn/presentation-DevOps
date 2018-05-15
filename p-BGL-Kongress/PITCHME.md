@@ -30,17 +30,17 @@ Nur wenn wir auch in Zukunft einen Wert für Menschen schaffen, werden wir über
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/theManager03.png
 <div>
 # Agiles Management
-- ist die Kunst, Lernen so wenig teuer wie möglich zu machen.
-- Abhängigkeiten drastisch zu reduzieren
-- ist die Fähigkeit, lose gekoppelte Teams zum Erfolg zu bringen.
-- ist cross-funktionales Arbeiten in einem Management-Team
+- Fehlerkultur: Lernen so wenig teuer wie möglich zu machen.
+- Organisationsstruktur verbessern: Abhängigkeiten drastisch reduzieren
+- Ziel: lose gekoppelte Teams zum Erfolg zu bringen.
+- Teamgeist: cross-funktionales Arbeiten im Management
+- sich überflüssig machen
 </div>
 <!-- .element: class="fragment fade-in" -->
 
 
 ---
 # Der Druck
-
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_swArchitecture.jpg
 <div>
 # Legacy IT &#8658; als Risiko behandeln
@@ -53,7 +53,7 @@ Note: Ausschnitt aus der IT-Landkarte eines großen Logistik-Unternehmens im Jah
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/peopleAreGold.png
 <div>
-# mit weniger Personal mehr machen
+# weniger Personal muss mehr schaffen
 </div>
 <!-- .element: class="fragment fade-in" -->
 Note: 2030 wird auf zwei Rentner nur eine neue Arbeitskraft in die Firma eintreten.
@@ -68,11 +68,29 @@ Note: Im Jahresbericht 2016/1017 von Thyssenkrupp wird dem Thema Personal kein b
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/chaos02.jpg
 <div>
-# CHAOS
+# Auf Chaos vorbereiten
 [https://beta.observablehq.com/@ahojsenn/chaos-example](https://beta.observablehq.com/@ahojsenn/chaos-example
 )
 </div>
 <!-- .element: class="fragment fade-in" -->
+
++++
+<div>
+# Digitalisierung
+</div>
+<!-- .element: class="fragment fade-in" style="font-size: 0.5em; "-->
+Note: Digitalisierung bedeutet, von der IT-Produktentwicklung lernen. Agile Terams Aufbauen, eine Agile Organisationsstruktur aufbauen, Kultur ändern.
+
++++
+<div>
+# Innovation
+</div>
+<!-- .element: class="fragment fade-in" style="font-size: 0.5em; "-->
+Note: Innovation ist noch einmal etwas ganz Anderes. Aber sind die anderen Schritte einmal gemacht, wird es mit der innovation auch einfacher...
+
+---
+# [Über]lebenshilfen  
+
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_teams01.jpg
 <div>
@@ -87,12 +105,7 @@ ist eine Antwort auf Chaos.
 <!-- .element: class="fragment fade-in" -->
 
 
-+++
-<div>
-# Innovation? Digitalisierung?
 
-</div>
-<!-- .element: class="fragment fade-in" style="font-size: 0.5em; "-->
 
 
 
