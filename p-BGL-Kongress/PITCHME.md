@@ -44,7 +44,7 @@ top: 400px;" -->
 - Teamgeist: cross-funktionales Arbeiten im Management
 - sich überflüssig machen
 </div>
-<!-- .element: class="fragment fade-in" style="font-size:0.4em; " -->
+<!-- .element: class="fragment fade-in" style="font-size:0.5em; " -->
 
 
 ---
