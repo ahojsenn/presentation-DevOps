@@ -213,7 +213,7 @@ Lernen, Spaß und Erfolg!
 <div>
 # Innovation works!
 <!-- .element: style="font-size: 3em; color: red"-->
-[Interview mit Karlheinz Brandenburg](https://www.kommitment.biz/fileadmin/media/presentations/mainusch_OS_03_17_-_karl-heinz_brandenburg_-_mp3_freeware.pdf)
+link: [Interview mit Karlheinz Brandenburg](https://www.kommitment.biz/fileadmin/media/presentations/mainusch_OS_03_17_-_karl-heinz_brandenburg_-_mp3_freeware.pdf)
 </div>
 <!-- .element: class="fragment fade-in" -->
 
