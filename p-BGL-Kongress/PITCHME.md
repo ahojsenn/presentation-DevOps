@@ -100,9 +100,15 @@ Note: Digitalisierung bedeutet, von der IT-Produktentwicklung lernen. Agile Team
 <!-- .element:  style="font-size: 4.5em; -->
 Note: Innovation ist noch einmal etwas ganz Anderes. Aber sind die anderen Schritte einmal gemacht, wird es mit der innovation auch einfacher...
 
++++
+# Faktor 4 besser werden
+Wenn das mit Effizienzmaßnahmen möglich wäre
+hätten Sie es schon längst getan!
+<!-- .element: class="fragment fade-in" -->
 
-
-
++++
+"Die reinste Form des Wahnsinns ist es, alles beim Alten zu lassen und gleichzeitig zu hoffen, dass sich etwas ändert."
+A. Einstein
 
 
 ---
@@ -133,6 +139,12 @@ ist eine Antwort auf Chaos.
 
 
 
+
++++
+# Disrupt Us!
+Hanseatic Bank 2016
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/testimonial-MB.png
 
 
 
