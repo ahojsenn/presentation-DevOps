@@ -157,7 +157,7 @@ statt Sandkastenkriege
 
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/team.png
 # Erfolge
-<!-- .element: style="color: red; font-size: 3em" -->
+<!-- .element: style="color: red; font-size: 4em" -->
 
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/product03.png
@@ -180,7 +180,7 @@ räumliche Verteilung von Expertenteams. Bsp. Breuninger, XING Barcelona, ...
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/hanseaticbankGB2016.png
 # Disrupt Us!
-<!-- .element: class="fragment fade-in" style="font-size: 2.5em; color: red;" -->
+<!-- .element: class="fragment fade-in" style="font-size: 4em; color: red;" -->
 
 +++
 #Solution Lab
