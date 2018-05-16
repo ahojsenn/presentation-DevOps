@@ -151,7 +151,7 @@ was macht der Entwickler im Hoodie in der Bank?
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/oberkiffer.jpg
 <div>
 # Fail
-= first attempt in learning
+= __F__irst __A__ttempt __I__n __L__earning
 </div>
 <!-- .element: class="fragment fade-in" -->
 
