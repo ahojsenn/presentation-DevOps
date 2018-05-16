@@ -151,11 +151,11 @@ was macht der Entwickler im Hoodie in der Bank?
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/oberkiffer.jpg
 <div>
 # Fail
-= __F__irst __A__ttempt __I__n __L__earning
+= <span>__F__</span>irst <span>__A__</span>ttempt <span>__I__</span>n <span>__L__</span>earning
 </div>
 <!-- .element: class="fragment fade-in" -->
 
-+++
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/managerImHoodie.jpg
 # Management Collaboration
 statt Sandkastenkriege
 
