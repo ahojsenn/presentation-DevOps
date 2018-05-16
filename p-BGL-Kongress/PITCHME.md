@@ -87,6 +87,10 @@ Note: Im Jahresbericht 2016/1017 von Thyssenkrupp wird dem Thema Personal kein b
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/chaos02.jpg
 # Auf Chaos vorbereiten
+- jeder kleine Schritt verändert die Gesamtsituation
+- von gestern und heute kann nicht auf morgen geschlossen werden
+- einfache Organismen mit kurzen Evolutionszyklen überleben besser...
+- to big to fail fails
 [https://beta.observablehq.com/@ahojsenn/chaos-example](https://beta.observablehq.com/@ahojsenn/chaos-example
 )
 
@@ -118,25 +122,28 @@ hätten Sie es schon längst getan!
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_teams01.jpg
 <div>
 # Agiles Team
-ist eine Antwort auf Chaos.
-- kleine Schritte
-- cross-funktionales Arbeiten
+ist ein Umgang mit chaotischer Umgebung.
+- kleine Schritte, inspect & adapt
+- cross-funktionales Arbeiten / Experten unterschiedlicher Fachrichtungen im Team
 - pull statt push
-- inspect & adapt
 - Experten entscheiden
+- Autonomie!
 </div>
 <!-- .element: class="fragment fade-in" -->
 
-
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/che.png
+ist ungemütlich, oder?
+<!-- .element: class="fragment fade-in" -->
+
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/change.jpg
 # Crazy?
+was macht der Entwickler im Hoodie in der Bank?
 <!-- .element: class="fragment fade-in" -->
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/change03.png
 # Kultur<br>veränderung
-<!-- .element: style="color: #b75d38 -->
+<!-- .element: class="fragment fade-out" style="color: #b75d38 -->
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/change04.png
 
@@ -144,7 +151,7 @@ ist eine Antwort auf Chaos.
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/oberkiffer.jpg
 <div>
 # Fail
-fail early, fail fast, fail often!
+= first attempt in learning
 </div>
 <!-- .element: class="fragment fade-in" -->
 
