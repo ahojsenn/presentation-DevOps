@@ -97,19 +97,21 @@ Note: Im Jahresbericht 2016/1017 von Thyssenkrupp wird dem Thema Personal kein b
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/digitalisierung.jpg
 # Digitalisierung?
 <!-- .element:  style="font-size: 2.5em; color: #72f34b"-->
+von der IT-Produktentwicklung lernen
 Note: Digitalisierung bedeutet, von der IT-Produktentwicklung lernen. Agile Teams aufbauen, eine agile Organisationsstruktur aufbauen, Kultur ändern.
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/innovation.jpg
 # Innovation?
 <!-- .element:  style="font-size: 4.5em; -->
-Note: Innovation ist noch einmal etwas ganz Anderes. Aber sind die anderen Schritte einmal gemacht, wird es mit der innovation auch einfacher...
+Chaos ist ein gutes Milieu für Innovation
+Note: Innovation ist noch einmal etwas ganz Anderes. Chaos ist ein gutes Milieu für Innovation. Aber sind die anderen Schritte einmal gemacht, wird es mit der Innovation auch einfacher...
 
 +++
 # Faktor 4 besser werden
 Wenn das mit Effizienzmaßnahmen möglich wäre
 hätten Sie es schon längst getan!
 <!-- .element: class="fragment fade-in" -->
-
+Note: Oft sind Andere in Bereichen schon um Faktoren besser.
 
 
 
@@ -158,7 +160,8 @@ was macht der Entwickler im Hoodie in der Bank?
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/managerImHoodie.jpg
 # Management Collaboration
 statt Sandkastenkriege
-
+<!-- .element: class="fragment fade-in" -->
+Note: die beiden Typen im Hoodie sind der IT-Leiter und einer der beiden Direktoren der Bank.
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/testimonial-MB.png
 
@@ -183,7 +186,7 @@ statt Sandkastenkriege
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/vertikaleTeams-inv.png
 <div>
 # Vertikalisierung
-räumliche Verteilung von Expertenteams. Bsp. Breuninger, XING Barcelona, ...
+räumliche Verteilung von Expertenteams. Bsp. Breuninger, XING Barcelona, ... wird so überhaupt erst möglich.
 </div>
 <!-- .element: class="fragment fade-in" -->
 
@@ -201,7 +204,8 @@ ausprobiert
 # Raum schaffen
 Freiraum, die Tapete wechseln, Spielraum, hier fällt mir die Decke auf den Kopf, Wände einreißen, Tag der offenen Tür, aus der Box denken...
 
-
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/hanseaticbankGB2016.png
+# Firmen X-Change
 
 
 ---
