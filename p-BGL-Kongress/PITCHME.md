@@ -200,7 +200,7 @@ Ideen von Kollegen werden
 4 Wochen Vollzeit im [co-workong space](https://www.mindspace.me/hamburg/)
 ausprobiert
 
-+++
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/chaos01.png
 # Raum schaffen
 Freiraum, die Tapete wechseln, Spielraum, hier fällt mir die Decke auf den Kopf, Wände einreißen, Tag der offenen Tür, aus der Box denken...
 
