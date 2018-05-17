@@ -204,9 +204,13 @@ ausprobiert
 # Raum schaffen
 Freiraum, die Tapete wechseln, Spielraum, hier fällt mir die Decke auf den Kopf, Wände einreißen, Tag der offenen Tür, aus der Box denken...
 
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/hanseaticbankGB2016.png
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/firmenXchange.jpg
 # Firmen X-Change
-
+<div>
+Mauern abbauen - Firmen X-Change
+</div>
+<!-- .element: class="fragment fade-in" -->
+Note: Hier bspw. der Besuch des comdirect IT-Managements bei otto.de.
 
 ---
 # MY VISION
