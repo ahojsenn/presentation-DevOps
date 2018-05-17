@@ -227,7 +227,6 @@ Lernen, Spaß und Erfolg!
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/MP3-Team_1987.jpg
 <div>
 # BE NERD!
-<!-- .element: style="font-size: 4em; color: red" class="fragment fade-in" -->
 link: [Interview mit Karlheinz Brandenburg](https://www.kommitment.biz/fileadmin/media/presentations/mainusch_OS_03_17_-_karl-heinz_brandenburg_-_mp3_freeware.pdf)
 </div>
 <!-- .element: class="fragment fade-in" -->
