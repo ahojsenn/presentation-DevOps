@@ -3,6 +3,7 @@
 <!-- .element: style="font-size: 3em; color: orange"-->
 [Über]leben im Chaos
 <!-- .element: style="font-size: 2em; color: orange"-->
+![./QR-BGL-Kongress.png]
 
 +++
 <div>
