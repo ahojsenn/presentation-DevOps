@@ -103,17 +103,17 @@ Note: By 2030, only one new employees will join the company for two who retire< 
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/SAPvsThyssen2016.png
 <div>
-# Personal &#8658; fehlt in den strategisches Zielen
+# Staff &#8658; is not in the strategy!
 </div>
 <!-- .element: class="fragment fade-in"-->
 Note: Im Jahresbericht 2016/1017 von Thyssenkrupp wird dem Thema Personal kein besonderer strategischer Fokus gegeben, auch kein Fokus im Risikobericht...
 
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/chaos02.jpg
-# Auf Chaos vorbereiten
-- jeder kleine Schritt verändert die Gesamtsituation
-- von gestern und heute kann nicht auf morgen geschlossen werden
-- einfache Organismen mit kurzen Evolutionszyklen überleben besser...
+# Prep 4 Chaos
+- every little step changes the overall situation
+- understanding yesterdays situation will not allow to predict tomorrow
+- simple organisms with short liofecycles will survive
 - to big to fail fails
 [https://beta.observablehq.com/@ahojsenn/chaos-example](https://beta.observablehq.com/@ahojsenn/chaos-example
 )
