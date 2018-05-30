@@ -5,7 +5,7 @@ Stories for NERDS
 <!-- .element: style="font-size: 2em; color: orange"-->
 
 
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/QR-BGL-Kongress.png
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/QR-ungeilesManagement.png
 
 +++
 <div>
