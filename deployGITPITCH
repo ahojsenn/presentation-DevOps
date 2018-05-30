@@ -27,4 +27,4 @@ git pull --rebase
 git push
 # open https://gitpitch.com/ahojsenn/presentation-DevOps/master?grs=github&p=p-seacon2018
 # open https://gitpitch.com/ahojsenn/presentation-DevOps/master?p=p-seacon2018
-open https://gitpitch.com/ahojsenn/presentation-DevOps/master?p=p-BGL-Kongress
+open https://gitpitch.com/ahojsenn/presentation-DevOps/master?p=p-stories4Nerds
