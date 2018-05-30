@@ -3,7 +3,7 @@
 <!-- .element: style="font-size: 3em; color: orange"-->
 Stories for NERDS
 <!-- .element: style="font-size: 2em; color: orange"-->
-O10N
+
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/QR-ungeilesManagement.png
 
@@ -26,17 +26,31 @@ To clarify structures, I like to use the stylistic means of exaggeration and sat
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/theNerd03.jpg
 <div>
 # NERDS
-# Werdet Manager!
+# become Managers!
 </div>
 <!-- .element: class="fragment fade-in" style="font-size:0.5em; " -->
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/theNerdValueChainZoom1.jpg
+Note:
+Nerds are problem solvers. If you know, how to operate nerds, you can earn a lot of money...
+
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/theNerdValueChainZoom2.jpg
+Note:
+If you know, how to operate nerds, you can earn a lot of money... Usually a nerd will get some money to solve a problem. Like Stephan, who charges me 25c for MS-Exchange Tipps or for helping me with git merges... That is a value chain, but a short one...
+
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/theNerdValueChainZoom3.jpg
+Note:
+Matroschkaing developers from customers via layers of project leads and sales people provides a much better value chain...
+
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/theNerdValueChainZoom4.jpg
+Note:
+Of course there are still ways to optimize tihs nerd valu chain. I googled IT-Engineer wages in India and from that I calculated per hourly wages between 0,25 and 5€.
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/theNerdValueChainZoom5.jpg
+Note: I believe, this is then a value drain rather than a value chain.
 
 ---
-# Der Druck
+# The Pressure
 
 +++?image=images/FirmaReorga01.jpg
 Note: Wir haben gelernt, Unternehmen in Schichten von Abstraktion aufzubauen. "One Face to the customer" oder "Frontendit vs. Backend-IT".
@@ -51,7 +65,7 @@ Conway's law is an adage named after computer programmer Melvin Conway, who intr
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_swArchitecture.jpg
 <div>
-# Risiko: <br>Legacy IT
+# Risk: <br>Legacy IT
 </div>
 <!-- .element: class="fragment fade-in" -->
 Note: Ausschnitt aus der IT-Landkarte eines großen Logistik-Unternehmens im Jahr 1999.
@@ -72,15 +86,19 @@ Note: Ausschnitt aus der IT-Landkarte eines großen Logistik-Unternehmens im Jah
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/stillePostPonyZoom5.jpg&size=100% auto
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/stillePostPonyZoom6.jpg&size=100% auto
 
++++
+# get closer to you User
+even, if you're operations...
 
-
+---
+# The people
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/peopleAreGold.png
 <div>
-# weniger Personal <br>muss <br>mehr schaffen
+# fewer people <br>will <br>deliver more
 </div>
 <!-- .element: class="fragment fade-in" -->
-Note: 2030 wird auf zwei Rentner nur eine neue Arbeitskraft in die Firma eintreten.
+Note: By 2030, only one new employees will join the company for two who retire< .
 
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/SAPvsThyssen2016.png
