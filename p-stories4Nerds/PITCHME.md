@@ -1,7 +1,7 @@
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
-# Agiles Management
+# [un]geiles Management
 <!-- .element: style="font-size: 3em; color: orange"-->
-[Über]leben im Chaos
+Stories for NERDS
 <!-- .element: style="font-size: 2em; color: orange"-->
 
 
