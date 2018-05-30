@@ -7,28 +7,6 @@ Stories for NERDS
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/QR-ungeilesManagement.png
 
-+++
-<div>
-# Abstract:
-Die äußeren Rahmenbedingungen in der Wirtschaft ändern sich immer schneller, währen wir im Inneren unserer Firmen alte feste Strukturen und schwer verständliche Systeme betreiben. Also keine Zeit zum Ausruhen, keine Zeit für Behäbigkeit. Albert Einstein sagte:
-  "Die reinste Form des Wahnsinns ist es, alles beim Alten zu lassen und gleichzeitig zu hoffen, dass sich etwas ändert."
-
-Der Druck:
-- [IT | Organisations]-Legacy - alte Systeme ziehen uns runter!
-- Demografie - wer arbeitet da morgen eigentlich noch?
-- Personal - Recruiting muss strategisches Ziel im Unternehmen Stab-Linienorganisation sein!
-- wertschöpfende Produkte - was wäre innovativ und erfolgversprechend?
-
-[Über]lebenshilfen:
-- Agilität und Agiles Management
-- Vertikalisierung: Produktentwicklung X.0 und das neue Management
-- neue Organisationsformen
-- Innovationen - Beispiel Solution Lab
-- Mauern abbauen - Firmen X-Change
-
-Nur wenn wir auch in Zukunft einen Wert für Menschen schaffen, werden wir überleben!
-</div>
-<!-- .element:  style="font-size:0.5em"-->
 
 +++?image=images/johannes-mainusch.jpg&size=auto 90%
 <div>
@@ -82,6 +60,22 @@ Conway's law is an adage named after computer programmer Melvin Conway, who intr
 Note: Ausschnitt aus der IT-Landkarte eines großen Logistik-Unternehmens im Jahr 1999.
 
 
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/architecture03.png
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/architecture04.png
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/architecture05.png
+
+
+---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/V-Model-dj.jpg
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/stillePostApfelZoom1.jpg
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/stillePostApfelZoom2.jpg
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/stillePostPonyZoom1.jpg
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/stillePostPonyZoom2.jpg
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/stillePostPonyZoom3.jpg
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/stillePostPonyZoom4.jpg
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/stillePostPonyZoom5.jpg
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/stillePostPonyZoom6.jpg
+
+
 
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/peopleAreGold.png
@@ -98,6 +92,7 @@ Note: 2030 wird auf zwei Rentner nur eine neue Arbeitskraft in die Firma eintret
 </div>
 <!-- .element: class="fragment fade-in"-->
 Note: Im Jahresbericht 2016/1017 von Thyssenkrupp wird dem Thema Personal kein besonderer strategischer Fokus gegeben, auch kein Fokus im Risikobericht...
+
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/chaos02.jpg
 # Auf Chaos vorbereiten
