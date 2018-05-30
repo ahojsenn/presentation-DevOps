@@ -1,5 +1,5 @@
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
-# [un]pimp Management
+# PIMP MA ORGA
 <!-- .element: style="font-size: 3em; color: orange"-->
 Stories for NERDS
 <!-- .element: style="font-size: 2em; color: orange"-->
@@ -10,8 +10,9 @@ Stories for NERDS
 
 +++?image=images/johannes-mainusch.jpg&size=auto 90%
 <div>
-Ich bin Johannes Mainusch. Oft halte ich Vorträge vor IT-Managern oder Entwicklern zum Thema moderne IT-Produktentwicklung und Flow im Team. Mit diesem Vortrag wende ich mich an IT-Muggles. Ich versuche ihn zu halten, dass ich trotzdem den Wunsch auf dringende benötigte Veränderung, das Ausrichten auf Chaos, den Spaß an cross-funktionaler Zusammenarbeit und den Erfolg, fast unmöglich  Erklärbares in coole Produkte zu formen rüber bringen kann.
-Um Strukturen zu verdeutlichen, verwende ich gern die Stilmittel der Überzeichnung und der Satire. Ich beabsichtige damit keinesfalls, Zuhörer zu brüskieren oder zu verletzen. Inspiration ist mein Ziel.
+I am Johannes Mainusch. I often lecture IT managers or developers on modern IT product development and flow in the team. I talk to IT muggles andf to NERDS.
+
+To clarify structures, I like to use the stylistic means of exaggeration and satire. By no means do I intend to offend or hurt listeners. Inspiration is my goal.
 </div>
 <!-- .element: class="fragment fade-in" style="font-size: 0.4em; position: absolute; top: 400px;" -->
 
