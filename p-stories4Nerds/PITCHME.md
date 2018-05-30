@@ -1,7 +1,7 @@
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
-# PIMP MY ORG.
+# NERDS & HERDS
 <!-- .element: style="font-size: 3em; color: orange"-->
-Stories for NERDS
+how to scale development
 <!-- .element: style="font-size: 2em; color: orange"-->
 
 
@@ -119,28 +119,28 @@ Note: Im Jahresbericht 2016/1017 von Thyssenkrupp wird dem Thema Personal kein b
 )
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/digitalisierung.jpg
-# Digitalisierung?
+# Digitalisation?
 <!-- .element:  style="font-size: 2.5em; color: #72f34b"-->
-von der IT-Produktentwicklung lernen
+learn, Orga learn, Orga learn!
+from IT-Product development!
 Note: Digitalisierung bedeutet, von der IT-Produktentwicklung lernen. Agile Teams aufbauen, eine agile Organisationsstruktur aufbauen, Kultur ändern.
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/innovation.jpg
 # Innovation?
 <!-- .element:  style="font-size: 4.5em; -->
-Chaos ist ein gutes Milieu für Innovation
+Chaos is a good environment for innovation
 Note: Innovation ist noch einmal etwas ganz Anderes. Chaos ist ein gutes Milieu für Innovation. Aber sind die anderen Schritte einmal gemacht, wird es mit der Innovation auch einfacher...
 
 +++
-# Faktor 4 besser werden
-Wenn das mit Effizienzmaßnahmen möglich wäre
-hätten Sie es schon längst getan!
-<!-- .element: class="fragment fade-in" -->
-Note: Oft sind Andere in Bereichen schon um Faktoren besser.
+# CHAOS WILL COME
 
 
 
----
-# [Über]<br>lebenshilfen  
+
+
+
+---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/survivalKit.jpg
+# Survival Kit
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/FirmaReorga02.jpg
 
