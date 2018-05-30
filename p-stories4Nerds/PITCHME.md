@@ -1,5 +1,5 @@
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
-# [un]geiles Management
+# [un]pimp Management
 <!-- .element: style="font-size: 3em; color: orange"-->
 Stories for NERDS
 <!-- .element: style="font-size: 2em; color: orange"-->
@@ -70,7 +70,7 @@ Note: Ausschnitt aus der IT-Landkarte eines großen Logistik-Unternehmens im Jah
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/stillePostApfelZoom2.jpg
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/stillePostPonyZoom1.jpg
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/stillePostPonyZoom2.jpg
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/stillePostPonyZoom3.jpg
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/stillePostPonyZoom3.jpg&size=auto 50%
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/stillePostPonyZoom4.jpg
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/stillePostPonyZoom5.jpg
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/stillePostPonyZoom6.jpg
