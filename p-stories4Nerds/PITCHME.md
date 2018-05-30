@@ -92,7 +92,7 @@ Note: Ausschnitt aus der IT-Landkarte eines großen Logistik-Unternehmens im Jah
 # get closer to you User
 even, if you're operations...
 
----
+---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/people.jpg
 # The people
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/peopleAreGold.png
@@ -241,11 +241,11 @@ Note: Hier bspw. der Besuch des comdirect IT-Managements bei otto.de.
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/vision.jpg
 Note:
-Ich habe gut geschlafen
-und freue mich schon beim Aufstehen
-auf sinnvolles Arbeiten
-mit inspirierenden Kollegen
-Lernen, Spaß und Erfolg!
+I slept well
+and I'm looking forward to getting up
+on meaningful work
+with inspiring colleagues
+Learning, fun and success!
 
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/MP3-Team_1987.jpg
