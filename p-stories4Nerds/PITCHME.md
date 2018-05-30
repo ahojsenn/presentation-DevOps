@@ -1,29 +1,25 @@
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
-# PIMP MA ORGA
+# PIMP MY ORG.
 <!-- .element: style="font-size: 3em; color: orange"-->
 Stories for NERDS
 <!-- .element: style="font-size: 2em; color: orange"-->
-
+O10N
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/QR-ungeilesManagement.png
 
 
 +++?image=images/johannes-mainusch.jpg&size=auto 90%
 <div>
-I am Johannes Mainusch. I often lecture IT managers or developers on modern IT product development and flow in the team. I talk to IT muggles andf to NERDS.
+I am Johannes Mainusch. I often lecture IT managers or developers on modern IT product development and flow in the team. I talk to IT MUGGLES andf to NERDS.
 
 To clarify structures, I like to use the stylistic means of exaggeration and satire. By no means do I intend to offend or hurt listeners. Inspiration is my goal.
 </div>
 <!-- .element: class="fragment fade-in" style="font-size: 0.4em; position: absolute; top: 400px;" -->
 
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/theManager03.png
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/theManager03-eng.png
 <div>
-# Agiles Management
-- Fehlerkultur: Lernen so wenig teuer wie möglich zu machen.
-- Organisationsstruktur verbessern: Abhängigkeiten drastisch reduzieren
-- Ziel: lose gekoppelte Teams zum Erfolg zu bringen.
-- Teamgeist: cross-funktionales Arbeiten im Management
-- sich überflüssig machen
+# Management
+# ensure future success
 </div>
 <!-- .element: class="fragment fade-in" style="font-size:0.5em; " -->
 
