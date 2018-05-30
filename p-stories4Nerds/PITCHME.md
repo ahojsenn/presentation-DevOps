@@ -76,7 +76,9 @@ Note: Ausschnitt aus der IT-Landkarte eines großen Logistik-Unternehmens im Jah
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/architecture05.png
 
 
----?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/V-Model-dj.jpg
+---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_sackgasse.jpg
+# The wrong way
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/V-Model-dj.jpg
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/stillePostApfelZoom1.jpg
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/stillePostApfelZoom2.jpg
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/stillePostPonyZoom1.jpg&size=100% auto
