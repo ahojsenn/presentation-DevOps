@@ -142,7 +142,8 @@ Note: Innovation ist noch einmal etwas ganz Anderes. Chaos ist ein gutes Milieu 
 
 
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/survivalKit.jpg
-# Survival Kit
+Note:
+This chapter is a surviv al kit of best practices and ma beliefs
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/FirmaReorga02.jpg
 
@@ -150,27 +151,25 @@ Note: Innovation ist noch einmal etwas ganz Anderes. Chaos ist ein gutes Milieu 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_teams01.jpg
 <div>
 # Agiles Team
-ist ein Umgang mit chaotischer Umgebung.
-- kleine Schritte, inspect & adapt
-- cross-funktionales Arbeiten / Experten unterschiedlicher Fachrichtungen im Team
-- pull statt push
-- Experten entscheiden
-- Autonomie!
+- small steps, inspect & adapt
+- cross-funktional
+- pull beats push
+- experts decide
+- autonomy
 </div>
 <!-- .element: class="fragment fade-in" -->
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/che.png
-ist ungemütlich, oder?
+is uncomfortable!
 <!-- .element: class="fragment fade-in" -->
 
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/change.jpg
-# Crazy?
-was macht der Entwickler im Hoodie in der Bank?
+# change looks crazy!
 <!-- .element: class="fragment fade-in" -->
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/change03.png
-# Kultur<br>veränderung
+# Change<br>examples
 <!-- .element: class="fragment fade-out" style="color: #b75d38 -->
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/change04.png
@@ -185,7 +184,7 @@ was macht der Entwickler im Hoodie in der Bank?
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/managerImHoodie.jpg
 # Management Collaboration
-statt Sandkastenkriege
+but petty wars
 <!-- .element: class="fragment fade-in" -->
 Note: die beiden Typen im Hoodie sind der IT-Leiter und einer der beiden Direktoren der Bank.
 
@@ -194,7 +193,7 @@ Note: die beiden Typen im Hoodie sind der IT-Leiter und einer der beiden Direkto
 
 
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/team.png
-# Erfolge
+# SUCCESS
 <!-- .element: style="color: red; font-size: 5em" -->
 
 
@@ -202,17 +201,17 @@ Note: die beiden Typen im Hoodie sind der IT-Leiter und einer der beiden Direkto
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/product09.png
 <div>
-- 2000: alle 5 Monate ein Hauptkatalog
-- 2012: alle 2 Wochen ein "Deployment"
-- 2017: 600 Deployments pro Woche
+- 2000: every 6 Monate a printed catalogue
+- 2012: every 2 Weeks one "deployment"
+- 2017: 600 deployments pewr week
 </div>
 <!-- .element: class="fragment fade-in" style="font-size:1.5em; "-->
 
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/vertikaleTeams-inv.png
 <div>
-# Vertikalisierung
-räumliche Verteilung von Expertenteams. Bsp. Breuninger, XING Barcelona, ... wird so überhaupt erst möglich.
+# Verticalization
+Distributed teams become a possibility
 </div>
 <!-- .element: class="fragment fade-in" -->
 
@@ -222,18 +221,17 @@ räumliche Verteilung von Expertenteams. Bsp. Breuninger, XING Barcelona, ... wi
 
 +++
 #Solution Lab
-Ideen von Kollegen werden
-4 Wochen Vollzeit im [co-workong space](https://www.mindspace.me/hamburg/)
-ausprobiert
+4 weeks of a team in a [co-workong space](https://www.mindspace.me/hamburg/)
+
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/chaos01.png
-# Raum schaffen
-Freiraum, die Tapete wechseln, Spielraum, hier fällt mir die Decke auf den Kopf, Wände einreißen, Tag der offenen Tür, aus der Box denken...
+# Create space
+one primary management task is the creation of free space and of possible worlds
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/firmenXchange.jpg
-# Firmen X-Change
+# Company X-Change
 <div>
-Mauern abbauen - Firmen X-Change
+Tear down the wall!
 </div>
 <!-- .element: class="fragment fade-in" -->
 Note: Hier bspw. der Besuch des comdirect IT-Managements bei otto.de.
