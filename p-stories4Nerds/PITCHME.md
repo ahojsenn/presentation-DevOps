@@ -48,6 +48,14 @@ Um Strukturen zu verdeutlichen, verwende ich gern die Stilmittel der Überzeichn
 </div>
 <!-- .element: class="fragment fade-in" style="font-size:0.5em; " -->
 
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/theNerd03.png
+# NERDS
+# Werdet Manager!
+
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/theNerdValueChainZoom1.jpg
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/theNerdValueChainZoom2.jpg
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/theNerdValueChainZoom3.jpg
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/theNerdValueChainZoom4.jpg
 
 ---
 # Der Druck
