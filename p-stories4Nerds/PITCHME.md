@@ -56,7 +56,7 @@ Note: I believe, this is then a value drain rather than a value chain.
 
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/pressure.jpg
 # <br><br>Pressure
-<!-- .element: style="font-size: 4em; color: orange"-->
+<!-- .element: style="font-size: 4em; color: #e63b26"-->
 
 +++?image=images/FirmaReorga01.jpg
 Note: Wir haben gelernt, Unternehmen in Schichten von Abstraktion aufzubauen. "One Face to the customer" oder "Frontendit vs. Backend-IT".
