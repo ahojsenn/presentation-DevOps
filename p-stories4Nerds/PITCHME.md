@@ -1,7 +1,7 @@
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
 # NERDS & HERDS
 <!-- .element: style="font-size: 3em; color: orange"-->
-how to scale development
+how to scale
 <!-- .element: style="font-size: 2em; color: orange"-->
 
 
@@ -12,7 +12,12 @@ how to scale development
 <div>
 I am Johannes Mainusch. I often lecture IT managers or developers on modern IT product development and flow in the team. I talk to IT MUGGLES andf to NERDS.
 
-To clarify structures, I like to use the stylistic means of exaggeration and satire. By no means do I intend to offend or hurt listeners. Inspiration is my goal.
+To clarify structures, I like to use the stylistic means of exaggeration and satire. By no means do I intend to offend or hurt listeners. My mission is inspiration.
+
+Johannes Mainusch
+https://github.com/ahojsenn
+#docjoe
+
 </div>
 <!-- .element: class="fragment fade-in" style="font-size: 0.4em; position: absolute; top: 400px;" -->
 
@@ -93,7 +98,8 @@ Note: Ausschnitt aus der IT-Landkarte eines großen Logistik-Unternehmens im Jah
 even, if you're operations...
 
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/people.jpg
-# The people
+# people
+<!-- .element: style="font-size: 5em; color: gold"-->
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/peopleAreGold.png
 <div>
