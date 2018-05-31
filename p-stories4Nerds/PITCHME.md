@@ -244,7 +244,7 @@ Tear down the wall!
 Note: Hier bspw. der Besuch des comdirect IT-Managements bei otto.de.
 
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/vision01.jpg
-# MY VISION
+# <br><br>MY VISION
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/vision.jpg
 Note:
