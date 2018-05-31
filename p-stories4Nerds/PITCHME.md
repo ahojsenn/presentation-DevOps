@@ -54,8 +54,8 @@ Of course there are still ways to optimize tihs nerd valu chain. I googled IT-En
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/theNerdValueChainZoom5.jpg
 Note: I believe, this is then a value drain rather than a value chain.
 
----
-# The Pressure
+---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/pressure.jpg
+# Pressure
 
 +++?image=images/FirmaReorga01.jpg
 Note: Wir haben gelernt, Unternehmen in Schichten von Abstraktion aufzubauen. "One Face to the customer" oder "Frontendit vs. Backend-IT".
