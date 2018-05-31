@@ -243,7 +243,7 @@ Tear down the wall!
 <!-- .element: class="fragment fade-in" -->
 Note: Hier bspw. der Besuch des comdirect IT-Managements bei otto.de.
 
----
+---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/vision01.jpg
 # MY VISION
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/vision.jpg
