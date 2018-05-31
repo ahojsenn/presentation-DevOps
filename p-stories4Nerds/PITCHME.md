@@ -254,6 +254,7 @@ on meaningful work
 with inspiring colleagues
 Learning, fun and success!
 
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/vision-peter.jpg
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/MP3-Team_1987.jpg
 <div>
