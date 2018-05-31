@@ -98,7 +98,7 @@ Note: Ausschnitt aus der IT-Landkarte eines großen Logistik-Unternehmens im Jah
 # get closer to you User
 even, if you're operations...
 
----?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/people.jpg
+---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/people01.jpg&size=100% auto
 # people
 <!-- .element: style="font-size: 5em; color: gold"-->
 
