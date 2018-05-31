@@ -99,8 +99,8 @@ Note: Ausschnitt aus der IT-Landkarte eines großen Logistik-Unternehmens im Jah
 even, if you're operations...
 
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/people01.jpg&size=100% auto
-# people
-<!-- .element: style="font-size: 5em; color: gold"-->
+# <br><br>people
+<!-- .element: style="font-size: 4em; color: gold"-->
 
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/peopleAreGold.png
 <div>
